@@ -1,5 +1,4 @@
 [build]
-  base = "bayarea_market_pulse"
   publish = "dist"
   command = "npm run build"
 
