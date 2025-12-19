@@ -2,38 +2,45 @@ name: Daily News Update
 
 on:
   schedule:
-    # Runs at 14:00 UTC, which is 6:00 AM PST
-    - cron: '0 14 * * *'
-  workflow_dispatch: # Allows you to run it manually if needed
-
-permissions:
-  contents: write
+    # Run at 16:00 UTC (8:00 AM PST) every day
+    - cron: '0 16 * * *'
+  workflow_dispatch: # Allows manual triggering from GitHub UI
 
 jobs:
   update-news:
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write
+    
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.9'
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
 
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install requests beautifulsoup4
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4
 
-    - name: Run news gathering script
-      run: python gather_news.py
+      - name: Run news gathering script
+        run: |
+          # Go into the project folder where the script lives
+          cd bayarea_market_pulse
+          # Run the script
+          python gather_news.py
 
-    - name: Commit and push changes
-      run: |
-        git config --global user.name 'github-actions[bot]'
-        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git add client/public/data/news.json
-        git commit -m "Daily news update: $(date +'%Y-%m-%d')" || exit 0
-        git push
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          
+          # Add the specific file that was updated
+          # Note: The path must include the project folder name
+          git add bayarea_market_pulse/client/public/data/news.json
+          
+          # Commit and push if there are changes
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Daily news update [skip ci]" && git push)
