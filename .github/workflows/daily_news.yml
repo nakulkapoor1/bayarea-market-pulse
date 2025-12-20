@@ -26,21 +26,30 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4
 
-      - name: Run news gathering script
+      - name: Locate and Run Script
         run: |
-          # Go into the project folder where the script lives
-          cd bayarea_market_pulse
-          # Run the script
-          python gather_news.py
+          echo "Listing files to debug structure:"
+          find . -maxdepth 3 -not -path '*/.*'
+          
+          if [ -f "gather_news.py" ]; then
+            echo "Found script in root directory."
+            python gather_news.py
+          elif [ -f "bayarea_market_pulse/gather_news.py" ]; then
+            echo "Found script in bayarea_market_pulse directory."
+            cd bayarea_market_pulse
+            python gather_news.py
+          else
+            echo "ERROR: Could not find gather_news.py in root or subfolder!"
+            exit 1
+          fi
 
       - name: Commit and push changes
         run: |
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
           
-          # Add the specific file that was updated
-          # Note: The path must include the project folder name
-          git add bayarea_market_pulse/client/public/data/news.json
+          # Add changes regardless of where the file ended up
+          git add .
           
           # Commit and push if there are changes
           git diff --quiet && git diff --staged --quiet || (git commit -m "Daily news update [skip ci]" && git push)
