@@ -28,18 +28,18 @@ jobs:
 
       - name: Locate and Run Script
         run: |
-          echo "Listing files to debug structure:"
+          echo "DEBUG: Listing all files to find the script..."
           find . -maxdepth 3 -not -path '*/.*'
           
           if [ -f "gather_news.py" ]; then
-            echo "Found script in root directory."
+            echo "SUCCESS: Found script in root directory."
             python gather_news.py
           elif [ -f "bayarea_market_pulse/gather_news.py" ]; then
-            echo "Found script in bayarea_market_pulse directory."
+            echo "SUCCESS: Found script in bayarea_market_pulse directory."
             cd bayarea_market_pulse
             python gather_news.py
           else
-            echo "ERROR: Could not find gather_news.py in root or subfolder!"
+            echo "ERROR: Could not find gather_news.py anywhere!"
             exit 1
           fi
 
@@ -47,9 +47,5 @@ jobs:
         run: |
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
-          
-          # Add changes regardless of where the file ended up
           git add .
-          
-          # Commit and push if there are changes
           git diff --quiet && git diff --staged --quiet || (git commit -m "Daily news update [skip ci]" && git push)
