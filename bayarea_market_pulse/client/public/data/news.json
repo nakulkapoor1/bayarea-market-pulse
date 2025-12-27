@@ -1,17 +1,6 @@
 [
   {
     "id": 1,
-    "title": "\u2018From 25 mph to 100 mph\u2019: How the Bay Area housing market changed in 2025 - San Francisco Chronicle",
-    "summary": "\u2018From 25 mph to 100 mph\u2019: How the Bay Area housing market changed in 2025 - San Francisco Chronicle",
-    "source": "San Francisco Chronicle",
-    "trend": "neutral",
-    "category": "Market News",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUjVsYUxuUE5OYURfNkladE5oRWZHUTVHWFVLbzhKRm5zbmUtM1k0Vi0zVllzUi02SkNRc3B1T0EwQUhPYldOMm5iSzlaOVphRVVsSU1vdU9va3hsRDNNZkZEaW8tU2hSZmVpeW5nSkNKNDdQTmtHTmlFRGNMZUZCdDV1WUkyYjk5dGc?oc=5",
-    "timestamp": "Mon, 10 Nov 2025 08:00:00 GMT",
-    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
-  },
-  {
-    "id": 2,
     "title": "Bay Area Housing Market: Trends and Forecast 2025-2026 - Norada Real Estate Investments",
     "summary": "Bay Area Housing Market: Trends and Forecast 2025-2026 - Norada Real Estate Investments",
     "source": "Norada Real Estate Investments",
@@ -19,6 +8,17 @@
     "category": "Market News",
     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBaaUM4aERvWk43T0Y3SmxRTWZWWmdTRkJ4elRmbk9pNzVOdDRLOGpkWFphTnhnWG5LVm15MnN1azNFTnZSWTFVeWdxNGc2bl9vNklsblR3eE1Oazlrb29xSFJzU0F0cXE2OTY5N0FGZEUzMU14VXprU2F0cw?oc=5",
     "timestamp": "Mon, 24 Nov 2025 08:00:00 GMT",
+    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
+    "id": 2,
+    "title": "\u2018From 25 mph to 100 mph\u2019: How the Bay Area housing market changed in 2025 - San Francisco Chronicle",
+    "summary": "\u2018From 25 mph to 100 mph\u2019: How the Bay Area housing market changed in 2025 - San Francisco Chronicle",
+    "source": "San Francisco Chronicle",
+    "trend": "neutral",
+    "category": "Market News",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUjVsYUxuUE5OYURfNkladE5oRWZHUTVHWFVLbzhKRm5zbmUtM1k0Vi0zVllzUi02SkNRc3B1T0EwQUhPYldOMm5iSzlaOVphRVVsSU1vdU9va3hsRDNNZkZEaW8tU2hSZmVpeW5nSkNKNDdQTmtHTmlFRGNMZUZCdDV1WUkyYjk5dGc?oc=5",
+    "timestamp": "Mon, 10 Nov 2025 08:00:00 GMT",
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
@@ -89,6 +89,17 @@
   },
   {
     "id": 9,
+    "title": "The Bay Area\u2019s real estate market is flashing a key warning signal - San Francisco Chronicle",
+    "summary": "The Bay Area\u2019s real estate market is flashing a key warning signal - San Francisco Chronicle",
+    "source": "San Francisco Chronicle",
+    "trend": "neutral",
+    "category": "Market News",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ1ktTTNYNldYbXRYX3ZtaXJpeWhBS1NfdnA1RHloOVlWR3NLXzBvUnBpakJhYXpsZ19kV3ZRMlMyeG43TGtQMlV6MlY3eEllQmVHazloNFBLNHF4aVdDYXBGd0FTMllheWVtb180YzRaUEpxaGdzWUNpZW5yUUYwbFdSWk9pYkRCV2c4bw?oc=5",
+    "timestamp": "Sun, 27 Apr 2025 07:00:00 GMT",
+    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
+    "id": 10,
     "title": "It\u2019s not quite a \u2018buyer\u2019s market\u2019 \u2014 but some indicators shows competition is cooling in the Bay Area housing market - The Mercury News",
     "summary": "It\u2019s not quite a \u2018buyer\u2019s market\u2019 \u2014 but some indicators shows competition is cooling in the Bay Area housing market - The Mercury News",
     "source": "The Mercury News",
@@ -96,17 +107,6 @@
     "category": "Market News",
     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxON3ZKYTNsWHNWc3pnWlN5M2pfUGVOQ1QtcTRfY0ZRbmRhb2pHNVR2RE5ycmIwMi1yZUNMWVlqSUh3blJxNThWNVdESzl5bUYzSnl5bkdTbjAwQ2MzV3MyVkVpNUNlcGp0Z29JQTZnN1NIR2FDNWN2Z092THByTTBpdWU2dTN0bk1aTkE4SlJZc3o2azV0cUgyTFpPS1NqcGk0Yzk1eHk2cDFHNXpvRDQ3M2VuaVBucWppU196T3BQSC1GVU92c3lkYXdfVWZiQjVzcGY0cGlmV01ocjFRdG9lT1hYRdIB6AFBVV95cUxQWVVwT2hZRG5XNlhOemhfdEV3Y2k1NUFGS25TVmVxbHhRWFVvSUtGRDF2OTFOOWRHOFVBbUVTYkVmMmlhSllrTWpiV0J3WUQtbHVOaksxSzNNUkpFRWtiUmdMb3doWTI2QWRXd1NqNTh5dmFYNVQ1czI4U1hZbHZyRWp2LVNtZFIwc2hlbVR3cWtOaHFYWGMxZ3VLdXJyUDhnbHRGVV93WE81bzNidVRVQ2pWM0VHTVVoU1FWMkZVNTJaZnZWSDExRHJlN1lmNVdReUcyVFlQQWMydjhsTXlscDdJUHAxbnU5?oc=5",
     "timestamp": "Tue, 27 May 2025 07:00:00 GMT",
-    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
-  },
-  {
-    "id": 10,
-    "title": "Top 10 U.S. counties where prospective buyers need to earn the most to afford a home\u201480% are in California - CNBC",
-    "summary": "Top 10 U.S. counties where prospective buyers need to earn the most to afford a home\u201480% are in California - CNBC",
-    "source": "CNBC",
-    "trend": "neutral",
-    "category": "Market News",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNU1dWWnBVZ3VWQy01dl9uYnNUZWZIbmNnc244dldXbVdiVXZOUW5TMkM3Q0xmbjlsTjhYdkthbnZzRURVMWlVNkU0NFdUQXhabHFfUVdidVczSkhoYW5hdFBGOVh5bVh6ckhkYVB1ejB1TEhpb1NWZ0dBa0MxSWp6OG5FT2dvSHphQXfSAY8BQVVfeXFMTWU5bWdJNmFRVXhQenFQcDJYSVFwTXpMQlRUd3V1S3hxNEVDZ0hwQlZBdkRSN0lnZ0lEWGw3MUlVSmVRdURsYm10Y3pVMERKeW5aY0NqZjkxRHN1WlN0NFVHMndVbFJRTHpsSzVhSXMxU3FrWHFMMW9PSlRNTVNJWE84aVNnd3I3ckdING05Z28?oc=5",
-    "timestamp": "Fri, 07 Jul 2023 07:00:00 GMT",
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   }
 ]
