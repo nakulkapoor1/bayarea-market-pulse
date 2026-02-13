@@ -45,6 +45,17 @@
   },
   {
     "id": 5,
+    "title": "Home values expected to drop the most in these CA cities, Zillow says. How much? - Sacramento Bee",
+    "summary": "Home values expected to drop the most in these CA cities, Zillow says. How much? - Sacramento Bee",
+    "source": "Sacramento Bee",
+    "trend": "down",
+    "category": "Market News",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oZnpVZHEwUTdqUEZFVE9yaXk5cms0NU9xY1ZBZ0dFVnVJSm5lM0lSS0F3VWNFX0dkUDJuTmE1SUpBZnVGUFdjWlRJalJoakI1QTAyb2RETHlEd2ZOUmZHbXpWM2xPQQ?oc=5",
+    "timestamp": "Tue, 06 May 2025 07:00:00 GMT",
+    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
+    "id": 6,
     "title": "Bay Area real estate market shows mixed signals as spring selling season unfolds - The Business Journals",
     "summary": "Bay Area real estate market shows mixed signals as spring selling season unfolds - The Business Journals",
     "source": "The Business Journals",
@@ -55,7 +66,7 @@
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
-    "id": 6,
+    "id": 7,
     "title": "\u2018From 25 mph to 100 mph\u2019: How the Bay Area housing market changed in 2025 - San Francisco Chronicle",
     "summary": "\u2018From 25 mph to 100 mph\u2019: How the Bay Area housing market changed in 2025 - San Francisco Chronicle",
     "source": "San Francisco Chronicle",
@@ -66,7 +77,7 @@
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
-    "id": 7,
+    "id": 8,
     "title": "California housing market shift: Buyers are gaining power - Fast Company",
     "summary": "California housing market shift: Buyers are gaining power - Fast Company",
     "source": "Fast Company",
@@ -77,7 +88,7 @@
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
-    "id": 8,
+    "id": 9,
     "title": "Across the Bay Area, home sellers are dropping their prices as inventory rises - The Mercury News",
     "summary": "Across the Bay Area, home sellers are dropping their prices as inventory rises - The Mercury News",
     "source": "The Mercury News",
@@ -88,7 +99,7 @@
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
-    "id": 9,
+    "id": 10,
     "title": "Bay Area home market offers some relief for buyers - Marin Independent Journal",
     "summary": "Bay Area home market offers some relief for buyers - Marin Independent Journal",
     "source": "Marin Independent Journal",
@@ -96,17 +107,6 @@
     "category": "Market News",
     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMVg0SXB4eENyQmlwbmxvNjBjYTIxSEFObERvY1BwaWRieUlTLWdWZmE2cTZYb0pwNndqc0lKOXZ3ME16cUxlVUttZEl1eDRUTnlxUzEyUjI0cFZYVjV3SEhZSEEtZnB4bjJDUTBDYmR3TnY0ZEs3cjIway1LWWZnNDBmQVdacGVtR1lrdGlQdzAxZXRsbmlNNjVzSnRXLThfdTdmWGRpZnNsVVBPbzZ4NVhpSkRaaUZtSGhWQldxQjdRMU1vcHp0RVV3bl9HYTdRZGRibmZOcEV1Zkw5UGfSAeMBQVVfeXFMUDNQYXhNdzBWaE1TRGJ0TWJPZFI1aTJIYkxTZHY0NnNVcjhlZ05FZmxVZVVPVUdVbEZKTV9JVjR4Z2I0MHVPam4tdWF6RjktZmJSZXplZGpqSFhvVUt2eVd3eng4ZGxBQ0l2UENaV1Z5OVlqV29JeDVXSVFHZlVfdTRrdFYwWnRGbjFIa05FZU9LT2l5bjlZR2tWcU1vV3JpQW1Hamh2XzZaa1R0V3IwQ0NwdWhELTJGcGFpTFhsampHVnQ1Mjc5WGtZRk9GVTFEYWZKeUstZElPQWhMRkNYMlhLZk0?oc=5",
     "timestamp": "Tue, 27 May 2025 07:00:00 GMT",
-    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
-  },
-  {
-    "id": 10,
-    "title": "Top 10 U.S. counties where prospective buyers need to earn the most to afford a home\u201480% are in California - CNBC",
-    "summary": "Top 10 U.S. counties where prospective buyers need to earn the most to afford a home\u201480% are in California - CNBC",
-    "source": "CNBC",
-    "trend": "neutral",
-    "category": "Market News",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNU1dWWnBVZ3VWQy01dl9uYnNUZWZIbmNnc244dldXbVdiVXZOUW5TMkM3Q0xmbjlsTjhYdkthbnZzRURVMWlVNkU0NFdUQXhabHFfUVdidVczSkhoYW5hdFBGOVh5bVh6ckhkYVB1ejB1TEhpb1NWZ0dBa0MxSWp6OG5FT2dvSHphQXfSAY8BQVVfeXFMTWU5bWdJNmFRVXhQenFQcDJYSVFwTXpMQlRUd3V1S3hxNEVDZ0hwQlZBdkRSN0lnZ0lEWGw3MUlVSmVRdURsYm10Y3pVMERKeW5aY0NqZjkxRHN1WlN0NFVHMndVbFJRTHpsSzVhSXMxU3FrWHFMMW9PSlRNTVNJWE84aVNnd3I3ckdING05Z28?oc=5",
-    "timestamp": "Fri, 07 Jul 2023 07:00:00 GMT",
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   }
 ]
