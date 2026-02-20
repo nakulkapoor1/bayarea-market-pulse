@@ -1,17 +1,6 @@
 [
   {
     "id": 1,
-    "title": "\u2018From 25 mph to 100 mph\u2019: How the Bay Area housing market changed in 2025 - San Francisco Chronicle",
-    "summary": "\u2018From 25 mph to 100 mph\u2019: How the Bay Area housing market changed in 2025 - San Francisco Chronicle",
-    "source": "San Francisco Chronicle",
-    "trend": "neutral",
-    "category": "Market News",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUjVsYUxuUE5OYURfNkladE5oRWZHUTVHWFVLbzhKRm5zbmUtM1k0Vi0zVllzUi02SkNRc3B1T0EwQUhPYldOMm5iSzlaOVphRVVsSU1vdU9va3hsRDNNZkZEaW8tU2hSZmVpeW5nSkNKNDdQTmtHTmlFRGNMZUZCdDV1WUkyYjk5dGc?oc=5",
-    "timestamp": "Mon, 10 Nov 2025 08:00:00 GMT",
-    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
-  },
-  {
-    "id": 2,
     "title": "Bay Area Housing Market: Trends and Forecast 2026 - Norada Real Estate Investments",
     "summary": "Bay Area Housing Market: Trends and Forecast 2026 - Norada Real Estate Investments",
     "source": "Norada Real Estate Investments",
@@ -19,6 +8,17 @@
     "category": "Market News",
     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBaaUM4aERvWk43T0Y3SmxRTWZWWmdTRkJ4elRmbk9pNzVOdDRLOGpkWFphTnhnWG5LVm15MnN1azNFTnZSWTFVeWdxNGc2bl9vNklsblR3eE1Oazlrb29xSFJzU0F0cXE2OTY5N0FGZEUzMU14VXprU2F0cw?oc=5",
     "timestamp": "Fri, 23 Jan 2026 08:00:00 GMT",
+    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
+    "id": 2,
+    "title": "\u2018From 25 mph to 100 mph\u2019: How the Bay Area housing market changed in 2025 - San Francisco Chronicle",
+    "summary": "\u2018From 25 mph to 100 mph\u2019: How the Bay Area housing market changed in 2025 - San Francisco Chronicle",
+    "source": "San Francisco Chronicle",
+    "trend": "neutral",
+    "category": "Market News",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUjVsYUxuUE5OYURfNkladE5oRWZHUTVHWFVLbzhKRm5zbmUtM1k0Vi0zVllzUi02SkNRc3B1T0EwQUhPYldOMm5iSzlaOVphRVVsSU1vdU9va3hsRDNNZkZEaW8tU2hSZmVpeW5nSkNKNDdQTmtHTmlFRGNMZUZCdDV1WUkyYjk5dGc?oc=5",
+    "timestamp": "Mon, 10 Nov 2025 08:00:00 GMT",
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
@@ -45,17 +45,6 @@
   },
   {
     "id": 5,
-    "title": "California housing market shift: Buyers are gaining power - Fast Company",
-    "summary": "California housing market shift: Buyers are gaining power - Fast Company",
-    "source": "Fast Company",
-    "trend": "up",
-    "category": "Market News",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOTRrdHBTNks2ZTZHRUpRU3pqUERxa0NhZ3FIdDNhc0NZMGhHUUltaFZya1JRZGFkZ01sMGZXcjJRVWtEQVMxRkxxZkpOYlo4Rzg1M3BSYmY2RGRXRWV2dFBUR1NLZjRLOHlFVDVvSVBrNUJ2U3B6X040MnZYNVc4UHUzRU45NW1sdzEwc29hUUktWVVjem1Gdnl5LXZRSG84bGU2SWk5VWd2bE1TZkMw?oc=5",
-    "timestamp": "Sun, 27 Apr 2025 07:00:00 GMT",
-    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
-  },
-  {
-    "id": 6,
     "title": "Bay Area home market inventory picks up - Marin Independent Journal",
     "summary": "Bay Area home market inventory picks up - Marin Independent Journal",
     "source": "Marin Independent Journal",
@@ -66,29 +55,18 @@
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
+    "id": 6,
+    "title": "California housing market shift: Buyers are gaining power - Fast Company",
+    "summary": "California housing market shift: Buyers are gaining power - Fast Company",
+    "source": "Fast Company",
+    "trend": "up",
+    "category": "Market News",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOTRrdHBTNks2ZTZHRUpRU3pqUERxa0NhZ3FIdDNhc0NZMGhHUUltaFZya1JRZGFkZ01sMGZXcjJRVWtEQVMxRkxxZkpOYlo4Rzg1M3BSYmY2RGRXRWV2dFBUR1NLZjRLOHlFVDVvSVBrNUJ2U3B6X040MnZYNVc4UHUzRU45NW1sdzEwc29hUUktWVVjem1Gdnl5LXZRSG84bGU2SWk5VWd2bE1TZkMw?oc=5",
+    "timestamp": "Sun, 27 Apr 2025 07:00:00 GMT",
+    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
     "id": 7,
-    "title": "S.F. didn\u2019t make Zillow\u2019s list of hottest markets \u2014 but one part of the Bay Area did - San Francisco Chronicle",
-    "summary": "S.F. didn\u2019t make Zillow\u2019s list of hottest markets \u2014 but one part of the Bay Area did - San Francisco Chronicle",
-    "source": "San Francisco Chronicle",
-    "trend": "down",
-    "category": "Market News",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRmF1Wk94XzFIMFV5NGN0MFhtLUhtdC1pUWpJRG9IZ05sWkp1ZGVkV1Z0QkFfR3NLYms5b05PYW12VEwxNEx4MThkVlNYSUJlbVdmVmV2cUNtY0hSNG9FbEtQN09CVVJrQlNSakpERnlRa2hMTkxXNG1BR0ZHcU9GeUhBV3dWNDJocVIwRENrMjVEbmc?oc=5",
-    "timestamp": "Tue, 20 Jan 2026 08:00:00 GMT",
-    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
-  },
-  {
-    "id": 8,
-    "title": "California home sales drop 10% as prices dip. What\u2019s next for real estate market? - Sacramento Bee",
-    "summary": "California home sales drop 10% as prices dip. What\u2019s next for real estate market? - Sacramento Bee",
-    "source": "Sacramento Bee",
-    "trend": "down",
-    "category": "Market News",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KbzVSYzBtdEUzaDVINW04VFV5cTQzWmUwRU5maDBra2xzdTZZS1dRc1EtTk5Vdks2dThtVFhHdnFELVVKYmFjdTN6MHdOXzlGTGs2RUJ0WWIwWC11MzBqeUE1bjQtcnV3MXlBctIBbEFVX3lxTE1hNDJ1UkhoeEx6c0hqVVhoTTBIbzAyMlMwdjdWZUFNdllHVEs1blBQcXZWanZVRjBqc0RXX29rMFBPUW9uMUt5M0RTYlduRkdKT3oyNlRpOF9zS0lRempPeXZlQmZuTktJMzRjQg?oc=5",
-    "timestamp": "Wed, 26 Feb 2025 08:00:00 GMT",
-    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
-  },
-  {
-    "id": 9,
     "title": "Across the Bay Area, home sellers are dropping their prices as inventory rises - The Mercury News",
     "summary": "Across the Bay Area, home sellers are dropping their prices as inventory rises - The Mercury News",
     "source": "The Mercury News",
@@ -99,7 +77,18 @@
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
-    "id": 10,
+    "id": 8,
+    "title": "The Bay Area\u2019s real estate market is flashing a key warning signal - San Francisco Chronicle",
+    "summary": "The Bay Area\u2019s real estate market is flashing a key warning signal - San Francisco Chronicle",
+    "source": "San Francisco Chronicle",
+    "trend": "neutral",
+    "category": "Market News",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ1ktTTNYNldYbXRYX3ZtaXJpeWhBS1NfdnA1RHloOVlWR3NLXzBvUnBpakJhYXpsZ19kV3ZRMlMyeG43TGtQMlV6MlY3eEllQmVHazloNFBLNHF4aVdDYXBGd0FTMllheWVtb180YzRaUEpxaGdzWUNpZW5yUUYwbFdSWk9pYkRCV2c4bw?oc=5",
+    "timestamp": "Sun, 27 Apr 2025 07:00:00 GMT",
+    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
+    "id": 9,
     "title": "Median home price surpasses $2 million in these two Bay Area counties - SiliconValley.com",
     "summary": "Median home price surpasses $2 million in these two Bay Area counties - SiliconValley.com",
     "source": "SiliconValley.com",
@@ -107,6 +96,17 @@
     "category": "Market News",
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZmlwUjFxMGd6S3RiMXpyOFJyMTZUNy1zZ1VyazlpMXp3bVZwWDZyRVJObzF3T3VaMUk4ZDJ4bkFRTFBPYVJSVVNfamxybHZFSTFqb1BDcUV4TG9LQVVVaEczNjh3bzdOeHRDUnRMSTJyRW1Jc0N0d1h0enl1LWpKczBtQWg1bjNTczFIYXVpZ2ZtOEcyNlo2djhZQ1dUTWltaWo2VDVjRGNCeGo5M25V0gG0AUFVX3lxTE5VQnZ2LTg5Q3prX29qN3dzNGNucnRtOEczS2VDQ21LWVBVcC1VVjZlQm1HS284cVZScXB4bU9XUVlTTDh4dHRRM0lrV0NKb2RfdDM0cEktaEZpcFMyUExwaS14aG5yX2QwTnlSTmVWUW1JVTVOcWFzQ2lDU0h1bUFheXVQV3ZFVHNpTDd6N0xMcHFJZ2pucXZTMEFKWmpob2NWUWJuSzlodkFGS0JfZ3cwU1BfQQ?oc=5",
     "timestamp": "Thu, 30 May 2024 07:00:00 GMT",
+    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
+    "id": 10,
+    "title": "Top 10 U.S. counties where prospective buyers need to earn the most to afford a home\u201480% are in California - CNBC",
+    "summary": "Top 10 U.S. counties where prospective buyers need to earn the most to afford a home\u201480% are in California - CNBC",
+    "source": "CNBC",
+    "trend": "neutral",
+    "category": "Market News",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNU1dWWnBVZ3VWQy01dl9uYnNUZWZIbmNnc244dldXbVdiVXZOUW5TMkM3Q0xmbjlsTjhYdkthbnZzRURVMWlVNkU0NFdUQXhabHFfUVdidVczSkhoYW5hdFBGOVh5bVh6ckhkYVB1ejB1TEhpb1NWZ0dBa0MxSWp6OG5FT2dvSHphQXfSAY8BQVVfeXFMTWU5bWdJNmFRVXhQenFQcDJYSVFwTXpMQlRUd3V1S3hxNEVDZ0hwQlZBdkRSN0lnZ0lEWGw3MUlVSmVRdURsYm10Y3pVMERKeW5aY0NqZjkxRHN1WlN0NFVHMndVbFJRTHpsSzVhSXMxU3FrWHFMMW9PSlRNTVNJWE84aVNnd3I3ckdING05Z28?oc=5",
+    "timestamp": "Fri, 07 Jul 2023 07:00:00 GMT",
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   }
 ]
