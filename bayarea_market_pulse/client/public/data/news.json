@@ -1,17 +1,6 @@
 [
   {
     "id": 1,
-    "title": "Bay Area Housing Market: Trends and Forecast 2026 - Norada Real Estate Investments",
-    "summary": "Bay Area Housing Market: Trends and Forecast 2026 - Norada Real Estate Investments",
-    "source": "Norada Real Estate Investments",
-    "trend": "neutral",
-    "category": "Market News",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBaaUM4aERvWk43T0Y3SmxRTWZWWmdTRkJ4elRmbk9pNzVOdDRLOGpkWFphTnhnWG5LVm15MnN1azNFTnZSWTFVeWdxNGc2bl9vNklsblR3eE1Oazlrb29xSFJzU0F0cXE2OTY5N0FGZEUzMU14VXprU2F0cw?oc=5",
-    "timestamp": "Fri, 23 Jan 2026 08:00:00 GMT",
-    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
-  },
-  {
-    "id": 2,
     "title": "\u2018From 25 mph to 100 mph\u2019: How the Bay Area housing market changed in 2025 - San Francisco Chronicle",
     "summary": "\u2018From 25 mph to 100 mph\u2019: How the Bay Area housing market changed in 2025 - San Francisco Chronicle",
     "source": "San Francisco Chronicle",
@@ -19,6 +8,17 @@
     "category": "Market News",
     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUjVsYUxuUE5OYURfNkladE5oRWZHUTVHWFVLbzhKRm5zbmUtM1k0Vi0zVllzUi02SkNRc3B1T0EwQUhPYldOMm5iSzlaOVphRVVsSU1vdU9va3hsRDNNZkZEaW8tU2hSZmVpeW5nSkNKNDdQTmtHTmlFRGNMZUZCdDV1WUkyYjk5dGc?oc=5",
     "timestamp": "Mon, 10 Nov 2025 08:00:00 GMT",
+    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
+    "id": 2,
+    "title": "Bay Area Housing Market: Trends and Forecast 2026 - Norada Real Estate Investments",
+    "summary": "Bay Area Housing Market: Trends and Forecast 2026 - Norada Real Estate Investments",
+    "source": "Norada Real Estate Investments",
+    "trend": "neutral",
+    "category": "Market News",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBaaUM4aERvWk43T0Y3SmxRTWZWWmdTRkJ4elRmbk9pNzVOdDRLOGpkWFphTnhnWG5LVm15MnN1azNFTnZSWTFVeWdxNGc2bl9vNklsblR3eE1Oazlrb29xSFJzU0F0cXE2OTY5N0FGZEUzMU14VXprU2F0cw?oc=5",
+    "timestamp": "Fri, 23 Jan 2026 08:00:00 GMT",
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
@@ -45,17 +45,6 @@
   },
   {
     "id": 5,
-    "title": "Bay Area home market inventory picks up - Marin Independent Journal",
-    "summary": "Bay Area home market inventory picks up - Marin Independent Journal",
-    "source": "Marin Independent Journal",
-    "trend": "up",
-    "category": "Market News",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8yYWpZdXpYMlc2UDdUa1piLUx4SzRwcEMybzYzYWVUSDZmbjNCaUh1R0dzT1BhMFNVT1J0a1c1ZGowRmFHV0xfQkFUeVpxYTdKa1FfUzJvNjlhOE9BQlZ1T2hkNm9OdGlDRmhRVkFwSzVObDhPVWlXS9IBfkFVX3lxTE41bWczRFNtWDA1OHlyMWE0akhLUHZGSUxjWk1UenhaTm9JWjRaNnZRN1pWT0tXMTNlMGtoRURqWjE2eG11dlRDR054bzZUY1dLcW1rbkhZRGt6bnQyaGI1VHR1WnB6RDk3S2kxQ0sySllUZkJibkl5ckVxSUdfQQ?oc=5",
-    "timestamp": "Fri, 28 Mar 2025 07:00:00 GMT",
-    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
-  },
-  {
-    "id": 6,
     "title": "California housing market shift: Buyers are gaining power - Fast Company",
     "summary": "California housing market shift: Buyers are gaining power - Fast Company",
     "source": "Fast Company",
@@ -66,25 +55,36 @@
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
-    "id": 7,
-    "title": "Across the Bay Area, home sellers are dropping their prices as inventory rises - The Mercury News",
-    "summary": "Across the Bay Area, home sellers are dropping their prices as inventory rises - The Mercury News",
-    "source": "The Mercury News",
+    "id": 6,
+    "title": "Bay Area home market inventory picks up - Marin Independent Journal",
+    "summary": "Bay Area home market inventory picks up - Marin Independent Journal",
+    "source": "Marin Independent Journal",
     "trend": "up",
     "category": "Market News",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE44WnVqTVJMbnczNGkxYXJ0V1BHekY2QkF2b2FCSGMtWUZ6Qnh3UzUyTDJPM3ZhcHctUDBwQjdKa2IzS1NhMjl4MmZILTA3Sk9PRU85eVA2TTF3LXNoTVV0QUgyeFBMbGk1UGtjdnB2bFNkZ9IBd0FVX3lxTE9Ra05iNHRtWXBLMFpLUDg1VkRNem1ZcU8xVkZPSlAxLXduSENQSS1tVkVhX0c2WUtUTGRNMGRUSkRsZGpjam5kTEVBWnlZU3lwYURCNVZSYTRNTXF5aFhVYzNTQmtvYkppOHA3OW82azFMREFkYmNF?oc=5",
-    "timestamp": "Mon, 28 Jul 2025 07:00:00 GMT",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8yYWpZdXpYMlc2UDdUa1piLUx4SzRwcEMybzYzYWVUSDZmbjNCaUh1R0dzT1BhMFNVT1J0a1c1ZGowRmFHV0xfQkFUeVpxYTdKa1FfUzJvNjlhOE9BQlZ1T2hkNm9OdGlDRmhRVkFwSzVObDhPVWlXS9IBfkFVX3lxTE41bWczRFNtWDA1OHlyMWE0akhLUHZGSUxjWk1UenhaTm9JWjRaNnZRN1pWT0tXMTNlMGtoRURqWjE2eG11dlRDR054bzZUY1dLcW1rbkhZRGt6bnQyaGI1VHR1WnB6RDk3S2kxQ0sySllUZkJibkl5ckVxSUdfQQ?oc=5",
+    "timestamp": "Fri, 28 Mar 2025 07:00:00 GMT",
+    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
+    "id": 7,
+    "title": "S.F. didn\u2019t make Zillow\u2019s list of hottest markets \u2014 but one part of the Bay Area did - San Francisco Chronicle",
+    "summary": "S.F. didn\u2019t make Zillow\u2019s list of hottest markets \u2014 but one part of the Bay Area did - San Francisco Chronicle",
+    "source": "San Francisco Chronicle",
+    "trend": "down",
+    "category": "Market News",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRmF1Wk94XzFIMFV5NGN0MFhtLUhtdC1pUWpJRG9IZ05sWkp1ZGVkV1Z0QkFfR3NLYms5b05PYW12VEwxNEx4MThkVlNYSUJlbVdmVmV2cUNtY0hSNG9FbEtQN09CVVJrQlNSakpERnlRa2hMTkxXNG1BR0ZHcU9GeUhBV3dWNDJocVIwRENrMjVEbmc?oc=5",
+    "timestamp": "Tue, 20 Jan 2026 08:00:00 GMT",
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
     "id": 8,
-    "title": "The Bay Area\u2019s real estate market is flashing a key warning signal - San Francisco Chronicle",
-    "summary": "The Bay Area\u2019s real estate market is flashing a key warning signal - San Francisco Chronicle",
-    "source": "San Francisco Chronicle",
+    "title": "It\u2019s not quite a \u2018buyer\u2019s market\u2019 \u2014 but some indicators shows competition is cooling in the Bay Area housing market - The Mercury News",
+    "summary": "It\u2019s not quite a \u2018buyer\u2019s market\u2019 \u2014 but some indicators shows competition is cooling in the Bay Area housing market - The Mercury News",
+    "source": "The Mercury News",
     "trend": "neutral",
     "category": "Market News",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ1ktTTNYNldYbXRYX3ZtaXJpeWhBS1NfdnA1RHloOVlWR3NLXzBvUnBpakJhYXpsZ19kV3ZRMlMyeG43TGtQMlV6MlY3eEllQmVHazloNFBLNHF4aVdDYXBGd0FTMllheWVtb180YzRaUEpxaGdzWUNpZW5yUUYwbFdSWk9pYkRCV2c4bw?oc=5",
-    "timestamp": "Sun, 27 Apr 2025 07:00:00 GMT",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxON3ZKYTNsWHNWc3pnWlN5M2pfUGVOQ1QtcTRfY0ZRbmRhb2pHNVR2RE5ycmIwMi1yZUNMWVlqSUh3blJxNThWNVdESzl5bUYzSnl5bkdTbjAwQ2MzV3MyVkVpNUNlcGp0Z29JQTZnN1NIR2FDNWN2Z092THByTTBpdWU2dTN0bk1aTkE4SlJZc3o2azV0cUgyTFpPS1NqcGk0Yzk1eHk2cDFHNXpvRDQ3M2VuaVBucWppU196T3BQSC1GVU92c3lkYXdfVWZiQjVzcGY0cGlmV01ocjFRdG9lT1hYRdIB6AFBVV95cUxQWVVwT2hZRG5XNlhOemhfdEV3Y2k1NUFGS25TVmVxbHhRWFVvSUtGRDF2OTFOOWRHOFVBbUVTYkVmMmlhSllrTWpiV0J3WUQtbHVOaksxSzNNUkpFRWtiUmdMb3doWTI2QWRXd1NqNTh5dmFYNVQ1czI4U1hZbHZyRWp2LVNtZFIwc2hlbVR3cWtOaHFYWGMxZ3VLdXJyUDhnbHRGVV93WE81bzNidVRVQ2pWM0VHTVVoU1FWMkZVNTJaZnZWSDExRHJlN1lmNVdReUcyVFlQQWMydjhsTXlscDdJUHAxbnU5?oc=5",
+    "timestamp": "Tue, 27 May 2025 07:00:00 GMT",
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
