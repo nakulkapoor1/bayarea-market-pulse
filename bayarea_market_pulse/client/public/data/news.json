@@ -1,17 +1,6 @@
 [
   {
     "id": 1,
-    "title": "Bay Area Housing Market: Trends and Forecast 2026 - Norada Real Estate Investments",
-    "summary": "Bay Area Housing Market: Trends and Forecast 2026 - Norada Real Estate Investments",
-    "source": "Norada Real Estate Investments",
-    "trend": "neutral",
-    "category": "Market News",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBaaUM4aERvWk43T0Y3SmxRTWZWWmdTRkJ4elRmbk9pNzVOdDRLOGpkWFphTnhnWG5LVm15MnN1azNFTnZSWTFVeWdxNGc2bl9vNklsblR3eE1Oazlrb29xSFJzU0F0cXE2OTY5N0FGZEUzMU14VXprU2F0cw?oc=5",
-    "timestamp": "Fri, 23 Jan 2026 08:00:00 GMT",
-    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
-  },
-  {
-    "id": 2,
     "title": "\u2018From 25 mph to 100 mph\u2019: How the Bay Area housing market changed in 2025 - San Francisco Chronicle",
     "summary": "\u2018From 25 mph to 100 mph\u2019: How the Bay Area housing market changed in 2025 - San Francisco Chronicle",
     "source": "San Francisco Chronicle",
@@ -19,6 +8,17 @@
     "category": "Market News",
     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUjVsYUxuUE5OYURfNkladE5oRWZHUTVHWFVLbzhKRm5zbmUtM1k0Vi0zVllzUi02SkNRc3B1T0EwQUhPYldOMm5iSzlaOVphRVVsSU1vdU9va3hsRDNNZkZEaW8tU2hSZmVpeW5nSkNKNDdQTmtHTmlFRGNMZUZCdDV1WUkyYjk5dGc?oc=5",
     "timestamp": "Mon, 10 Nov 2025 08:00:00 GMT",
+    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
+    "id": 2,
+    "title": "Bay Area Housing Market: Trends and Forecast 2026 - Norada Real Estate Investments",
+    "summary": "Bay Area Housing Market: Trends and Forecast 2026 - Norada Real Estate Investments",
+    "source": "Norada Real Estate Investments",
+    "trend": "neutral",
+    "category": "Market News",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBaaUM4aERvWk43T0Y3SmxRTWZWWmdTRkJ4elRmbk9pNzVOdDRLOGpkWFphTnhnWG5LVm15MnN1azNFTnZSWTFVeWdxNGc2bl9vNklsblR3eE1Oazlrb29xSFJzU0F0cXE2OTY5N0FGZEUzMU14VXprU2F0cw?oc=5",
+    "timestamp": "Fri, 23 Jan 2026 08:00:00 GMT",
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
@@ -56,6 +56,17 @@
   },
   {
     "id": 6,
+    "title": "California housing market shift: Buyers are gaining power - Fast Company",
+    "summary": "California housing market shift: Buyers are gaining power - Fast Company",
+    "source": "Fast Company",
+    "trend": "up",
+    "category": "Market News",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOTRrdHBTNks2ZTZHRUpRU3pqUERxa0NhZ3FIdDNhc0NZMGhHUUltaFZya1JRZGFkZ01sMGZXcjJRVWtEQVMxRkxxZkpOYlo4Rzg1M3BSYmY2RGRXRWV2dFBUR1NLZjRLOHlFVDVvSVBrNUJ2U3B6X040MnZYNVc4UHUzRU45NW1sdzEwc29hUUktWVVjem1Gdnl5LXZRSG84bGU2SWk5VWd2bE1TZkMw?oc=5",
+    "timestamp": "Sun, 27 Apr 2025 07:00:00 GMT",
+    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
+    "id": 7,
     "title": "Across the Bay Area, home sellers are dropping their prices as inventory rises - The Mercury News",
     "summary": "Across the Bay Area, home sellers are dropping their prices as inventory rises - The Mercury News",
     "source": "The Mercury News",
@@ -66,29 +77,7 @@
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
-    "id": 7,
-    "title": "Bay Area median home price down but remains above $1 million, realtors say - CBS News",
-    "summary": "Bay Area median home price down but remains above $1 million, realtors say - CBS News",
-    "source": "CBS News",
-    "trend": "down",
-    "category": "Market News",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM3VyWFhVRy1GMTc2RHo2VjZVck9MWnp1ckdQbmNPWWNvRVlqbGhYUkdqckxidk9qV0lGQVRIQUExUXpZNGE5cW5yanUxSnBxRTRPRlYzUzZ4aGVmM2tBTk5QbUxrSDFHZEJ2TzljN281TEN6T1RGZFpFUUxYU09IUkl1cEhjaGVKdXdnX0tFVnRwZ0lqcGJBUUp2NHgxZi1PTWxkQ2dRQTVBQWljMDF6eVE1bzFPb1E?oc=5",
-    "timestamp": "Wed, 17 Dec 2025 08:00:00 GMT",
-    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
-  },
-  {
     "id": 8,
-    "title": "Starter Homes Still Available in High-Priced Bay Area Market: Agent - NBC Bay Area",
-    "summary": "Starter Homes Still Available in High-Priced Bay Area Market: Agent - NBC Bay Area",
-    "source": "NBC Bay Area",
-    "trend": "up",
-    "category": "Market News",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa0IwbnZJSjYtemc4RzJRSEJKV2xtT1Axd09GbjBldUFoZTdzM1RmQmFkWGlYcC1sU1d3TGUtZHIxc1lxRGRUUVpHMjlMMDJzN3VTaVQ4dmJyOHRHVDUtMWVzUkhiLUFldncxRGpOYU1Qal9xaWFXd3BmTld3NWloZGR5OGJ3aFVSTFpUVm9DZUZpSThLQS14VjZFWS0tTmQweDFHMUNHOHdEQdIBsgFBVV95cUxNQ0dQTnFjYVRZSkVOWnhRdFROY2kzSXFlMmlaRUtSUklvT1pDWnZIclowSmlPZXU5a3dYeVUtS1VMd2VqY2NmdG5qUV9YTGM3TVRoOG10SmFXWXo3SEpiYlBPNmduTWtISHpxTnVfX2FFZE54UFloWmwtQ21LaXVhbGlfckZSR2dHeEdRWHQwUDZFMUZtZW0xcjJKcHhnTi1OLWJDVTFKYlVxdlB1LWFtNjhB?oc=5",
-    "timestamp": "Mon, 15 Jul 2019 07:00:00 GMT",
-    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
-  },
-  {
-    "id": 9,
     "title": "Top 10 U.S. counties where prospective buyers need to earn the most to afford a home\u201480% are in California - CNBC",
     "summary": "Top 10 U.S. counties where prospective buyers need to earn the most to afford a home\u201480% are in California - CNBC",
     "source": "CNBC",
@@ -99,14 +88,25 @@
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
+    "id": 9,
+    "title": "Starter Homes Still Available in High-Priced Bay Area Market: Agent - NBC Bay Area",
+    "summary": "Starter Homes Still Available in High-Priced Bay Area Market: Agent - NBC Bay Area",
+    "source": "NBC Bay Area",
+    "trend": "up",
+    "category": "Market News",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa0IwbnZJSjYtemc4RzJRSEJKV2xtT1Axd09GbjBldUFoZTdzM1RmQmFkWGlYcC1sU1d3TGUtZHIxc1lxRGRUUVpHMjlMMDJzN3VTaVQ4dmJyOHRHVDUtMWVzUkhiLUFldncxRGpOYU1Qal9xaWFXd3BmTld3NWloZGR5OGJ3aFVSTFpUVm9DZUZpSThLQS14VjZFWS0tTmQweDFHMUNHOHdEQdIBsgFBVV95cUxNQ0dQTnFjYVRZSkVOWnhRdFROY2kzSXFlMmlaRUtSUklvT1pDWnZIclowSmlPZXU5a3dYeVUtS1VMd2VqY2NmdG5qUV9YTGM3TVRoOG10SmFXWXo3SEpiYlBPNmduTWtISHpxTnVfX2FFZE54UFloWmwtQ21LaXVhbGlfckZSR2dHeEdRWHQwUDZFMUZtZW0xcjJKcHhnTi1OLWJDVTFKYlVxdlB1LWFtNjhB?oc=5",
+    "timestamp": "Mon, 15 Jul 2019 07:00:00 GMT",
+    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
     "id": 10,
-    "title": "The Bay Area\u2019s real estate market is flashing a key warning signal - San Francisco Chronicle",
-    "summary": "The Bay Area\u2019s real estate market is flashing a key warning signal - San Francisco Chronicle",
-    "source": "San Francisco Chronicle",
+    "title": "Median home price surpasses $2 million in these two Bay Area counties - SiliconValley.com",
+    "summary": "Median home price surpasses $2 million in these two Bay Area counties - SiliconValley.com",
+    "source": "SiliconValley.com",
     "trend": "neutral",
     "category": "Market News",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ1ktTTNYNldYbXRYX3ZtaXJpeWhBS1NfdnA1RHloOVlWR3NLXzBvUnBpakJhYXpsZ19kV3ZRMlMyeG43TGtQMlV6MlY3eEllQmVHazloNFBLNHF4aVdDYXBGd0FTMllheWVtb180YzRaUEpxaGdzWUNpZW5yUUYwbFdSWk9pYkRCV2c4bw?oc=5",
-    "timestamp": "Sun, 27 Apr 2025 07:00:00 GMT",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZmlwUjFxMGd6S3RiMXpyOFJyMTZUNy1zZ1VyazlpMXp3bVZwWDZyRVJObzF3T3VaMUk4ZDJ4bkFRTFBPYVJSVVNfamxybHZFSTFqb1BDcUV4TG9LQVVVaEczNjh3bzdOeHRDUnRMSTJyRW1Jc0N0d1h0enl1LWpKczBtQWg1bjNTczFIYXVpZ2ZtOEcyNlo2djhZQ1dUTWltaWo2VDVjRGNCeGo5M25V0gG0AUFVX3lxTE5VQnZ2LTg5Q3prX29qN3dzNGNucnRtOEczS2VDQ21LWVBVcC1VVjZlQm1HS284cVZScXB4bU9XUVlTTDh4dHRRM0lrV0NKb2RfdDM0cEktaEZpcFMyUExwaS14aG5yX2QwTnlSTmVWUW1JVTVOcWFzQ2lDU0h1bUFheXVQV3ZFVHNpTDd6N0xMcHFJZ2pucXZTMEFKWmpob2NWUWJuSzlodkFGS0JfZ3cwU1BfQQ?oc=5",
+    "timestamp": "Thu, 30 May 2024 07:00:00 GMT",
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   }
 ]
