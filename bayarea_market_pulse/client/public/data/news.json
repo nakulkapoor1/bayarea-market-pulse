@@ -34,17 +34,6 @@
   },
   {
     "id": 4,
-    "title": "Bay Area median home price down but remains above $1 million, realtors say - CBS News",
-    "summary": "Bay Area median home price down but remains above $1 million, realtors say - CBS News",
-    "source": "CBS News",
-    "trend": "down",
-    "category": "Market News",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM3VyWFhVRy1GMTc2RHo2VjZVck9MWnp1ckdQbmNPWWNvRVlqbGhYUkdqckxidk9qV0lGQVRIQUExUXpZNGE5cW5yanUxSnBxRTRPRlYzUzZ4aGVmM2tBTk5QbUxrSDFHZEJ2TzljN281TEN6T1RGZFpFUUxYU09IUkl1cEhjaGVKdXdnX0tFVnRwZ0lqcGJBUUp2NHgxZi1PTWxkQ2dRQTVBQWljMDF6eVE1bzFPb1HSAbwBQVVfeXFMT01FWExadVBtcU9PVm03NktFN2Rkb3QtdmNtZG1POG56ZDlXb2UtOXR4cnRRTTlLX1M5Zzh2LWxCU2ZENjNEWWZSdDdHWU85NElZVzFoYURCTEh5WjQ1Z1lCdnFmcVlpTEFQNlVRWld2WjM5RE1pZ2VMcTBlbE5LRHpuUkZTZ2lqR2k0RkkxTXp3TTVnQWMzQzlqdjA5aUpSYjBMQjNYNmNSbm5pa0NLb3RfSUl3OF8zTXFJdEs?oc=5",
-    "timestamp": "Wed, 17 Dec 2025 08:00:00 GMT",
-    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
-  },
-  {
-    "id": 5,
     "title": "Bay Area home sales dropped in July, but so far prices haven\u2019t followed - The Mercury News",
     "summary": "Bay Area home sales dropped in July, but so far prices haven\u2019t followed - The Mercury News",
     "source": "The Mercury News",
@@ -52,6 +41,17 @@
     "category": "Market News",
     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YY3FVUklOOEVlQUFvTTRibGhGUUJvU1NUUmZrTjR0SnhsMVJJMDVpWHMzMlNXMzZNbm9GcVdnTi0yY3hjeW94SjZpc3NNZkRjZmxMUE9LVVN2T3p1eEt6RUxjbG1GQkd2RWJ1TzFoRHVHU1NQRDZMVdIBfkFVX3lxTE82UjM2UHh0ajRLM0duMGdydXFrWGNncHM3LVByMl9SaGExX2lNQnljOUFTdGg1SXp2RmI3am96TWNpTWh6d2pHUjdtX0VFczNNVC1XQl9YWmgwTVhzRDNJQWRWT1hoODFGUEZCRE5FVmFaOFhqdWFDMm1XNkRhUQ?oc=5",
     "timestamp": "Wed, 27 Aug 2025 07:00:00 GMT",
+    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
+    "id": 5,
+    "title": "Home values expected to drop the most in these CA cities, Zillow says. How much? - Sacramento Bee",
+    "summary": "Home values expected to drop the most in these CA cities, Zillow says. How much? - Sacramento Bee",
+    "source": "Sacramento Bee",
+    "trend": "down",
+    "category": "Market News",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oZnpVZHEwUTdqUEZFVE9yaXk5cms0NU9xY1ZBZ0dFVnVJSm5lM0lSS0F3VWNFX0dkUDJuTmE1SUpBZnVGUFdjWlRJalJoakI1QTAyb2RETHlEd2ZOUmZHbXpWM2xPQQ?oc=5",
+    "timestamp": "Tue, 06 May 2025 07:00:00 GMT",
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
@@ -100,13 +100,13 @@
   },
   {
     "id": 10,
-    "title": "Here\u2019s where Bay Area home values have changed since the pandemic - SiliconValley.com",
-    "summary": "Here\u2019s where Bay Area home values have changed since the pandemic - SiliconValley.com",
+    "title": "Median home price surpasses $2 million in these two Bay Area counties - SiliconValley.com",
+    "summary": "Median home price surpasses $2 million in these two Bay Area counties - SiliconValley.com",
     "source": "SiliconValley.com",
     "trend": "neutral",
     "category": "Market News",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQlk1LTBzaGVUMDlfUGFrMVZXQkQ4YUpFbmtyOE5SRWJiZWYzbkRJcUxuYUxmU0w0VGtKNGVkRlpreC1MZmlqa0JrejNvQ25lbGx4WkRna2pfTm5wcTBIV3ducTRRbkRZRGF1S2Jid0loQV83ZEdXck9ORjBLV2NqTlhaeEdZanN0Rnhwd1RUSzZDSko1TGR4TTdMZWJLZEY5VGdmaFY0V0lwMzFWeHQyY253YnZKY213UGlYWVQxSXNDd9IBxwFBVV95cUxQNkxxcS1pUXRrdjRyYjRxNE1jSzI3NmlDTUM5d3Z3QXhISVVjNE1WLWFNanlMWWtqVXgwWlBWNkF4aThDekZ2MkVmWDFhZHF4T1pNQzc3YVlHQjZFMEwzTTg2ZjhKcV8tM0tkbHJYMjJidjlaZE9sZVJYSzhCdERkdEhOc3pXUGFBaEpidklPekpudElyOW84SVNlWTdPaFh4bkZQZGxfSE1aZlFjbkhTbFg1UVh2aWRyOXBZUmNVcE54akdsTkRJ?oc=5",
-    "timestamp": "Mon, 07 Jul 2025 07:00:00 GMT",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZmlwUjFxMGd6S3RiMXpyOFJyMTZUNy1zZ1VyazlpMXp3bVZwWDZyRVJObzF3T3VaMUk4ZDJ4bkFRTFBPYVJSVVNfamxybHZFSTFqb1BDcUV4TG9LQVVVaEczNjh3bzdOeHRDUnRMSTJyRW1Jc0N0d1h0enl1LWpKczBtQWg1bjNTczFIYXVpZ2ZtOEcyNlo2djhZQ1dUTWltaWo2VDVjRGNCeGo5M25V0gG0AUFVX3lxTE5VQnZ2LTg5Q3prX29qN3dzNGNucnRtOEczS2VDQ21LWVBVcC1VVjZlQm1HS284cVZScXB4bU9XUVlTTDh4dHRRM0lrV0NKb2RfdDM0cEktaEZpcFMyUExwaS14aG5yX2QwTnlSTmVWUW1JVTVOcWFzQ2lDU0h1bUFheXVQV3ZFVHNpTDd6N0xMcHFJZ2pucXZTMEFKWmpob2NWUWJuSzlodkFGS0JfZ3cwU1BfQQ?oc=5",
+    "timestamp": "Thu, 30 May 2024 07:00:00 GMT",
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   }
 ]
