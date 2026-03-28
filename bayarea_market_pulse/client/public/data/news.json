@@ -1,17 +1,6 @@
 [
   {
     "id": 1,
-    "title": "S.F. didn\u2019t make Zillow\u2019s list of hottest markets \u2014 but one part of the Bay Area did - San Francisco Chronicle",
-    "summary": "S.F. didn\u2019t make Zillow\u2019s list of hottest markets \u2014 but one part of the Bay Area did - San Francisco Chronicle",
-    "source": "San Francisco Chronicle",
-    "trend": "down",
-    "category": "Market News",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRmF1Wk94XzFIMFV5NGN0MFhtLUhtdC1pUWpJRG9IZ05sWkp1ZGVkV1Z0QkFfR3NLYms5b05PYW12VEwxNEx4MThkVlNYSUJlbVdmVmV2cUNtY0hSNG9FbEtQN09CVVJrQlNSakpERnlRa2hMTkxXNG1BR0ZHcU9GeUhBV3dWNDJocVIwRENrMjVEbmc?oc=5",
-    "timestamp": "Tue, 20 Jan 2026 08:00:00 GMT",
-    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
-  },
-  {
-    "id": 2,
     "title": "Bay Area Housing Market: Trends and Forecast 2026 - Norada Real Estate Investments",
     "summary": "Bay Area Housing Market: Trends and Forecast 2026 - Norada Real Estate Investments",
     "source": "Norada Real Estate Investments",
@@ -22,14 +11,25 @@
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
-    "id": 3,
-    "title": "More homes, lower prices, slower sales in SF - San Francisco Examiner",
-    "summary": "More homes, lower prices, slower sales in SF - San Francisco Examiner",
-    "source": "San Francisco Examiner",
+    "id": 2,
+    "title": "S.F. didn\u2019t make Zillow\u2019s list of hottest markets \u2014 but one part of the Bay Area did - San Francisco Chronicle",
+    "summary": "S.F. didn\u2019t make Zillow\u2019s list of hottest markets \u2014 but one part of the Bay Area did - San Francisco Chronicle",
+    "source": "San Francisco Chronicle",
     "trend": "down",
     "category": "Market News",
-    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeU1vOXNZQ09kT1BFb0hHRkF3NnBtdXpBaW53S2o4YVVpTmptWkRMVzdHNWxfdXhmX0lpYnluNFpvak1BYnZNaFBBR2Q5M3I5NG00V2pTVVFURmRRMW1FSFpXbTcwb3lHTmFLRDRuRkJnR2x6N1dwdjRmZE1IR0pyN1lxekxoaWp5Q0s0LWFwbU82NVNKdXNsSHpib3hhRmxRbWFIUWdnR1BRdS1GWENackVDeFlUTUpiWldKSE9kV2Y0clFwcHNmQVFEVFBhSElfN1pPUkE2WXUyVVNPSGs1NjN5NGlLNEhXTkJyWkZ0RDI?oc=5",
-    "timestamp": "Mon, 06 Oct 2025 07:00:00 GMT",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRmF1Wk94XzFIMFV5NGN0MFhtLUhtdC1pUWpJRG9IZ05sWkp1ZGVkV1Z0QkFfR3NLYms5b05PYW12VEwxNEx4MThkVlNYSUJlbVdmVmV2cUNtY0hSNG9FbEtQN09CVVJrQlNSakpERnlRa2hMTkxXNG1BR0ZHcU9GeUhBV3dWNDJocVIwRENrMjVEbmc?oc=5",
+    "timestamp": "Tue, 20 Jan 2026 08:00:00 GMT",
+    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
+    "id": 3,
+    "title": "Bay Area median home price down but remains above $1 million, realtors say - CBS News",
+    "summary": "Bay Area median home price down but remains above $1 million, realtors say - CBS News",
+    "source": "CBS News",
+    "trend": "down",
+    "category": "Market News",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM3VyWFhVRy1GMTc2RHo2VjZVck9MWnp1ckdQbmNPWWNvRVlqbGhYUkdqckxidk9qV0lGQVRIQUExUXpZNGE5cW5yanUxSnBxRTRPRlYzUzZ4aGVmM2tBTk5QbUxrSDFHZEJ2TzljN281TEN6T1RGZFpFUUxYU09IUkl1cEhjaGVKdXdnX0tFVnRwZ0lqcGJBUUp2NHgxZi1PTWxkQ2dRQTVBQWljMDF6eVE1bzFPb1E?oc=5",
+    "timestamp": "Wed, 17 Dec 2025 08:00:00 GMT",
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
@@ -45,20 +45,42 @@
   },
   {
     "id": 5,
-    "title": "Bay Area median home price down but remains above $1 million, realtors say - CBS News",
-    "summary": "Bay Area median home price down but remains above $1 million, realtors say - CBS News",
-    "source": "CBS News",
+    "title": "More homes, lower prices, slower sales in SF - San Francisco Examiner",
+    "summary": "More homes, lower prices, slower sales in SF - San Francisco Examiner",
+    "source": "San Francisco Examiner",
     "trend": "down",
     "category": "Market News",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM3VyWFhVRy1GMTc2RHo2VjZVck9MWnp1ckdQbmNPWWNvRVlqbGhYUkdqckxidk9qV0lGQVRIQUExUXpZNGE5cW5yanUxSnBxRTRPRlYzUzZ4aGVmM2tBTk5QbUxrSDFHZEJ2TzljN281TEN6T1RGZFpFUUxYU09IUkl1cEhjaGVKdXdnX0tFVnRwZ0lqcGJBUUp2NHgxZi1PTWxkQ2dRQTVBQWljMDF6eVE1bzFPb1E?oc=5",
-    "timestamp": "Wed, 17 Dec 2025 08:00:00 GMT",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeU1vOXNZQ09kT1BFb0hHRkF3NnBtdXpBaW53S2o4YVVpTmptWkRMVzdHNWxfdXhmX0lpYnluNFpvak1BYnZNaFBBR2Q5M3I5NG00V2pTVVFURmRRMW1FSFpXbTcwb3lHTmFLRDRuRkJnR2x6N1dwdjRmZE1IR0pyN1lxekxoaWp5Q0s0LWFwbU82NVNKdXNsSHpib3hhRmxRbWFIUWdnR1BRdS1GWENackVDeFlUTUpiWldKSE9kV2Y0clFwcHNmQVFEVFBhSElfN1pPUkE2WXUyVVNPSGs1NjN5NGlLNEhXTkJyWkZ0RDI?oc=5",
+    "timestamp": "Mon, 06 Oct 2025 07:00:00 GMT",
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
     "id": 6,
-    "title": "California housing market shift: Buyers are gaining power - Fast Company",
-    "summary": "California housing market shift: Buyers are gaining power - Fast Company",
-    "source": "Fast Company",
+    "title": "Luxury home sales reach highest October sales ever across the Bay Area - San Francisco Business Times - The Business Journals",
+    "summary": "Luxury home sales reach highest October sales ever across the Bay Area - San Francisco Business Times - The Business Journals",
+    "source": "The Business Journals",
+    "trend": "up",
+    "category": "Market News",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV1BYR1NYYnEzV3lIUWNUWVAwd21kNUN0UlM2cF92WF9oTU5ZM1RLWGRpREJ0Ny0xY2lGQ0R0LUpobFFOOUEyOW1ScXI0cUhyUDh2LWZ6SnVTRzNvNXRMWkVfVXRyTlJtZ0M4eVJLTlBxMDhvX1NzZ0Q0MWxURFBDcDlvYk1OcEdLUnpZUURxSXhCekxhamwzem5GQ3pmeFFwZFRwc25VY0N0MTRoMXc?oc=5",
+    "timestamp": "Wed, 12 Nov 2025 08:00:00 GMT",
+    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
+    "id": 7,
+    "title": "\u2018From 25 mph to 100 mph\u2019: How the Bay Area housing market changed in 2025 - San Francisco Chronicle",
+    "summary": "\u2018From 25 mph to 100 mph\u2019: How the Bay Area housing market changed in 2025 - San Francisco Chronicle",
+    "source": "San Francisco Chronicle",
+    "trend": "neutral",
+    "category": "Market News",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUjVsYUxuUE5OYURfNkladE5oRWZHUTVHWFVLbzhKRm5zbmUtM1k0Vi0zVllzUi02SkNRc3B1T0EwQUhPYldOMm5iSzlaOVphRVVsSU1vdU9va3hsRDNNZkZEaW8tU2hSZmVpeW5nSkNKNDdQTmtHTmlFRGNMZUZCdDV1WUkyYjk5dGc?oc=5",
+    "timestamp": "Mon, 10 Nov 2025 08:00:00 GMT",
+    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
+    "id": 8,
+    "title": "California housing market shift: Buyers are gaining power - fastcompany.com",
+    "summary": "California housing market shift: Buyers are gaining power - fastcompany.com",
+    "source": "fastcompany.com",
     "trend": "up",
     "category": "Market News",
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOTRrdHBTNks2ZTZHRUpRU3pqUERxa0NhZ3FIdDNhc0NZMGhHUUltaFZya1JRZGFkZ01sMGZXcjJRVWtEQVMxRkxxZkpOYlo4Rzg1M3BSYmY2RGRXRWV2dFBUR1NLZjRLOHlFVDVvSVBrNUJ2U3B6X040MnZYNVc4UHUzRU45NW1sdzEwc29hUUktWVVjem1Gdnl5LXZRSG84bGU2SWk5VWd2bE1TZkMw?oc=5",
@@ -66,7 +88,7 @@
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
-    "id": 7,
+    "id": 9,
     "title": "Across the Bay Area, home sellers are dropping their prices as inventory rises - The Mercury News",
     "summary": "Across the Bay Area, home sellers are dropping their prices as inventory rises - The Mercury News",
     "source": "The Mercury News",
@@ -77,18 +99,7 @@
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
-    "id": 8,
-    "title": "This key data shows S.F.\u2019s growth remains sluggish \u2014 and far worse than rest of the Bay Area - San Francisco Chronicle",
-    "summary": "This key data shows S.F.\u2019s growth remains sluggish \u2014 and far worse than rest of the Bay Area - San Francisco Chronicle",
-    "source": "San Francisco Chronicle",
-    "trend": "neutral",
-    "category": "Market News",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMFM2LU84RC1NMUVnMmk4aHhOUTY3SWZ4N1U0Tjg4ZXIyWjQtUkdyRkpiQVVJZE9ZOW9IZW9oMHQyZ25uSUpXbUItdGhXLUg4enZfT0NWM05CQTFhQnpEbkpad2MzLURhUDRuWG9mZVBwTUdUMTdjVWxpalJXRE5jWEVfbjFodw?oc=5",
-    "timestamp": "Wed, 16 Jul 2025 07:00:00 GMT",
-    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
-  },
-  {
-    "id": 9,
+    "id": 10,
     "title": "Bay Area home prices fall, marking largest annual price decline in California, figures show - KTVU",
     "summary": "Bay Area home prices fall, marking largest annual price decline in California, figures show - KTVU",
     "source": "KTVU",
@@ -96,17 +107,6 @@
     "category": "Market News",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWjI1MkhETk9HVEVhZWUxbGpLWDNrU3pUUXdfLXd4UG44WjREcE9wOEZ4dDBNLVYwbi0zLXl1NWFXaW4wa0ZObnJMYVNpbEhteTJMRWlrUmYtMzBvM2ZlWjR4UTk2YU5Lc2xkS3F3ZVQzVW9OaF9MaVJzR29vQ25SRE45YWc3d3hLaTU1X3JqVjR0aTF1MmM4X0RoSkI3UEhvR2E0VWlSc1MwRWN1YS1OWlln0gG3AUFVX3lxTFB4VHF1NGEwNnFVNkhSLUFiT3pPeWVfcFJuNXFnWWd5X1M4R0pnbmQweWloWU40QUkxTENBZmNoNkhzTUh3UERrYkQ0RFdpTFR1ZDVGa2c0Y0tvOWRONUVpU25iOWoxbzJJSnhuOGtsWW9zUGkteGx5THRqQWpxdTJmUTJPYjgxS3ZDY3ZzSkZvMDFabHJJOTZ3ZHN6LTFDV04xbGx2WG5SMVFnUWROWDdZM0Q4QWhETQ?oc=5",
     "timestamp": "Tue, 16 Dec 2025 08:00:00 GMT",
-    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
-  },
-  {
-    "id": 10,
-    "title": "Top 10 U.S. counties where prospective buyers need to earn the most to afford a home\u201480% are in California - CNBC",
-    "summary": "Top 10 U.S. counties where prospective buyers need to earn the most to afford a home\u201480% are in California - CNBC",
-    "source": "CNBC",
-    "trend": "neutral",
-    "category": "Market News",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNU1dWWnBVZ3VWQy01dl9uYnNUZWZIbmNnc244dldXbVdiVXZOUW5TMkM3Q0xmbjlsTjhYdkthbnZzRURVMWlVNkU0NFdUQXhabHFfUVdidVczSkhoYW5hdFBGOVh5bVh6ckhkYVB1ejB1TEhpb1NWZ0dBa0MxSWp6OG5FT2dvSHphQXfSAY8BQVVfeXFMTWU5bWdJNmFRVXhQenFQcDJYSVFwTXpMQlRUd3V1S3hxNEVDZ0hwQlZBdkRSN0lnZ0lEWGw3MUlVSmVRdURsYm10Y3pVMERKeW5aY0NqZjkxRHN1WlN0NFVHMndVbFJRTHpsSzVhSXMxU3FrWHFMMW9PSlRNTVNJWE84aVNnd3I3ckdING05Z28?oc=5",
-    "timestamp": "Fri, 07 Jul 2023 07:00:00 GMT",
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   }
 ]
