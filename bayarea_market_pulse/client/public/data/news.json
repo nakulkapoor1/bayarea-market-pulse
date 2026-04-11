@@ -78,17 +78,6 @@
   },
   {
     "id": 8,
-    "title": "Home values expected to drop the most in these CA cities, Zillow says. How much? - Sacramento Bee",
-    "summary": "Home values expected to drop the most in these CA cities, Zillow says. How much? - Sacramento Bee",
-    "source": "Sacramento Bee",
-    "trend": "down",
-    "category": "Market News",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oZnpVZHEwUTdqUEZFVE9yaXk5cms0NU9xY1ZBZ0dFVnVJSm5lM0lSS0F3VWNFX0dkUDJuTmE1SUpBZnVGUFdjWlRJalJoakI1QTAyb2RETHlEd2ZOUmZHbXpWM2xPQQ?oc=5",
-    "timestamp": "Tue, 06 May 2025 07:00:00 GMT",
-    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
-  },
-  {
-    "id": 9,
     "title": "California housing market shift: Buyers are gaining power - Fast Company",
     "summary": "California housing market shift: Buyers are gaining power - Fast Company",
     "source": "Fast Company",
@@ -99,7 +88,7 @@
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
-    "id": 10,
+    "id": 9,
     "title": "Across the Bay Area, home sellers are dropping their prices as inventory rises - The Mercury News",
     "summary": "Across the Bay Area, home sellers are dropping their prices as inventory rises - The Mercury News",
     "source": "The Mercury News",
@@ -107,6 +96,17 @@
     "category": "Market News",
     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE44WnVqTVJMbnczNGkxYXJ0V1BHekY2QkF2b2FCSGMtWUZ6Qnh3UzUyTDJPM3ZhcHctUDBwQjdKa2IzS1NhMjl4MmZILTA3Sk9PRU85eVA2TTF3LXNoTVV0QUgyeFBMbGk1UGtjdnB2bFNkZ9IBd0FVX3lxTE9Ra05iNHRtWXBLMFpLUDg1VkRNem1ZcU8xVkZPSlAxLXduSENQSS1tVkVhX0c2WUtUTGRNMGRUSkRsZGpjam5kTEVBWnlZU3lwYURCNVZSYTRNTXF5aFhVYzNTQmtvYkppOHA3OW82azFMREFkYmNF?oc=5",
     "timestamp": "Mon, 28 Jul 2025 07:00:00 GMT",
+    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
+    "id": 10,
+    "title": "Bay Area home prices fall, marking largest annual price decline in California, figures show - KTVU",
+    "summary": "Bay Area home prices fall, marking largest annual price decline in California, figures show - KTVU",
+    "source": "KTVU",
+    "trend": "down",
+    "category": "Market News",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWjI1MkhETk9HVEVhZWUxbGpLWDNrU3pUUXdfLXd4UG44WjREcE9wOEZ4dDBNLVYwbi0zLXl1NWFXaW4wa0ZObnJMYVNpbEhteTJMRWlrUmYtMzBvM2ZlWjR4UTk2YU5Lc2xkS3F3ZVQzVW9OaF9MaVJzR29vQ25SRE45YWc3d3hLaTU1X3JqVjR0aTF1MmM4X0RoSkI3UEhvR2E0VWlSc1MwRWN1YS1OWlln0gG3AUFVX3lxTFB4VHF1NGEwNnFVNkhSLUFiT3pPeWVfcFJuNXFnWWd5X1M4R0pnbmQweWloWU40QUkxTENBZmNoNkhzTUh3UERrYkQ0RFdpTFR1ZDVGa2c0Y0tvOWRONUVpU25iOWoxbzJJSnhuOGtsWW9zUGkteGx5THRqQWpxdTJmUTJPYjgxS3ZDY3ZzSkZvMDFabHJJOTZ3ZHN6LTFDV04xbGx2WG5SMVFnUWROWDdZM0Q4QWhETQ?oc=5",
+    "timestamp": "Tue, 16 Dec 2025 08:00:00 GMT",
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   }
 ]
