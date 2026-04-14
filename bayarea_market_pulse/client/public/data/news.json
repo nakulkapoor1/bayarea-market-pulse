@@ -1,17 +1,6 @@
 [
   {
     "id": 1,
-    "title": "Bay Area Real Estate Market Update \u2014 March 2026 (What Changed) [32fe2d] - Fathom Journal",
-    "summary": "Bay Area Real Estate Market Update \u2014 March 2026 (What Changed) [32fe2d] - Fathom Journal",
-    "source": "Fathom Journal",
-    "trend": "up",
-    "category": "Market News",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xa1ZQTHQwVHhrekQ2UWMyMEVUellfYzNPWXFxX2M1cm5DU25fZ29ZLWxITzZYZTBpSlNZNDNubXJhckc4NzE5em1xWG1EMXlqSnptdFBaTkR6OUQ1N3dZMjViX0U1ZFRrc0FjZkNaNXo?oc=5",
-    "timestamp": "Tue, 07 Apr 2026 12:53:07 GMT",
-    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
-  },
-  {
-    "id": 2,
     "title": "Bay Area Housing Market: Trends and Forecast 2026 - Norada Real Estate Investments",
     "summary": "Bay Area Housing Market: Trends and Forecast 2026 - Norada Real Estate Investments",
     "source": "Norada Real Estate Investments",
@@ -22,29 +11,18 @@
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
+    "id": 2,
+    "title": "Bay Area Real Estate Market Update \u2014 March 2026 (What Changed) [32fe2d] - Fathom Journal",
+    "summary": "Bay Area Real Estate Market Update \u2014 March 2026 (What Changed) [32fe2d] - Fathom Journal",
+    "source": "Fathom Journal",
+    "trend": "up",
+    "category": "Market News",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xa1ZQTHQwVHhrekQ2UWMyMEVUellfYzNPWXFxX2M1cm5DU25fZ29ZLWxITzZYZTBpSlNZNDNubXJhckc4NzE5em1xWG1EMXlqSnptdFBaTkR6OUQ1N3dZMjViX0U1ZFRrc0FjZkNaNXo?oc=5",
+    "timestamp": "Tue, 07 Apr 2026 12:53:07 GMT",
+    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
     "id": 3,
-    "title": "S.F. didn\u2019t make Zillow\u2019s list of hottest markets \u2014 but one part of the Bay Area did - San Francisco Chronicle",
-    "summary": "S.F. didn\u2019t make Zillow\u2019s list of hottest markets \u2014 but one part of the Bay Area did - San Francisco Chronicle",
-    "source": "San Francisco Chronicle",
-    "trend": "down",
-    "category": "Market News",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRmF1Wk94XzFIMFV5NGN0MFhtLUhtdC1pUWpJRG9IZ05sWkp1ZGVkV1Z0QkFfR3NLYms5b05PYW12VEwxNEx4MThkVlNYSUJlbVdmVmV2cUNtY0hSNG9FbEtQN09CVVJrQlNSakpERnlRa2hMTkxXNG1BR0ZHcU9GeUhBV3dWNDJocVIwRENrMjVEbmc?oc=5",
-    "timestamp": "Tue, 20 Jan 2026 08:00:00 GMT",
-    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
-  },
-  {
-    "id": 4,
-    "title": "Bay Area median home price down but remains above $1 million, realtors say - CBS News",
-    "summary": "Bay Area median home price down but remains above $1 million, realtors say - CBS News",
-    "source": "CBS News",
-    "trend": "down",
-    "category": "Market News",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM3VyWFhVRy1GMTc2RHo2VjZVck9MWnp1ckdQbmNPWWNvRVlqbGhYUkdqckxidk9qV0lGQVRIQUExUXpZNGE5cW5yanUxSnBxRTRPRlYzUzZ4aGVmM2tBTk5QbUxrSDFHZEJ2TzljN281TEN6T1RGZFpFUUxYU09IUkl1cEhjaGVKdXdnX0tFVnRwZ0lqcGJBUUp2NHgxZi1PTWxkQ2dRQTVBQWljMDF6eVE1bzFPb1E?oc=5",
-    "timestamp": "Wed, 17 Dec 2025 08:00:00 GMT",
-    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
-  },
-  {
-    "id": 5,
     "title": "\u2018From 25 mph to 100 mph\u2019: How the Bay Area housing market changed in 2025 - San Francisco Chronicle",
     "summary": "\u2018From 25 mph to 100 mph\u2019: How the Bay Area housing market changed in 2025 - San Francisco Chronicle",
     "source": "San Francisco Chronicle",
@@ -55,7 +33,7 @@
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
-    "id": 6,
+    "id": 4,
     "title": "More homes, lower prices, slower sales in SF - San Francisco Examiner",
     "summary": "More homes, lower prices, slower sales in SF - San Francisco Examiner",
     "source": "San Francisco Examiner",
@@ -66,7 +44,18 @@
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
-    "id": 7,
+    "id": 5,
+    "title": "Bay Area median home price down but remains above $1 million, realtors say - CBS News",
+    "summary": "Bay Area median home price down but remains above $1 million, realtors say - CBS News",
+    "source": "CBS News",
+    "trend": "down",
+    "category": "Market News",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM3VyWFhVRy1GMTc2RHo2VjZVck9MWnp1ckdQbmNPWWNvRVlqbGhYUkdqckxidk9qV0lGQVRIQUExUXpZNGE5cW5yanUxSnBxRTRPRlYzUzZ4aGVmM2tBTk5QbUxrSDFHZEJ2TzljN281TEN6T1RGZFpFUUxYU09IUkl1cEhjaGVKdXdnX0tFVnRwZ0lqcGJBUUp2NHgxZi1PTWxkQ2dRQTVBQWljMDF6eVE1bzFPb1E?oc=5",
+    "timestamp": "Wed, 17 Dec 2025 08:00:00 GMT",
+    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
+    "id": 6,
     "title": "Bay Area home sales dropped in July, but so far prices haven\u2019t followed - The Mercury News",
     "summary": "Bay Area home sales dropped in July, but so far prices haven\u2019t followed - The Mercury News",
     "source": "The Mercury News",
@@ -74,6 +63,17 @@
     "category": "Market News",
     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YY3FVUklOOEVlQUFvTTRibGhGUUJvU1NUUmZrTjR0SnhsMVJJMDVpWHMzMlNXMzZNbm9GcVdnTi0yY3hjeW94SjZpc3NNZkRjZmxMUE9LVVN2T3p1eEt6RUxjbG1GQkd2RWJ1TzFoRHVHU1NQRDZMVdIBfkFVX3lxTE82UjM2UHh0ajRLM0duMGdydXFrWGNncHM3LVByMl9SaGExX2lNQnljOUFTdGg1SXp2RmI3am96TWNpTWh6d2pHUjdtX0VFczNNVC1XQl9YWmgwTVhzRDNJQWRWT1hoODFGUEZCRE5FVmFaOFhqdWFDMm1XNkRhUQ?oc=5",
     "timestamp": "Wed, 27 Aug 2025 07:00:00 GMT",
+    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
+    "id": 7,
+    "title": "S.F. didn\u2019t make Zillow\u2019s list of hottest markets \u2014 but one part of the Bay Area did - San Francisco Chronicle",
+    "summary": "S.F. didn\u2019t make Zillow\u2019s list of hottest markets \u2014 but one part of the Bay Area did - San Francisco Chronicle",
+    "source": "San Francisco Chronicle",
+    "trend": "down",
+    "category": "Market News",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRmF1Wk94XzFIMFV5NGN0MFhtLUhtdC1pUWpJRG9IZ05sWkp1ZGVkV1Z0QkFfR3NLYms5b05PYW12VEwxNEx4MThkVlNYSUJlbVdmVmV2cUNtY0hSNG9FbEtQN09CVVJrQlNSakpERnlRa2hMTkxXNG1BR0ZHcU9GeUhBV3dWNDJocVIwRENrMjVEbmc?oc=5",
+    "timestamp": "Tue, 20 Jan 2026 08:00:00 GMT",
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
