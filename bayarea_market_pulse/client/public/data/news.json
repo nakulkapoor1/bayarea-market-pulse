@@ -12,13 +12,13 @@
   },
   {
     "id": 2,
-    "title": "Bay Area Real Estate Market Update \u2014 March 2026 (What Changed) [32fe2d] - Fathom Journal",
-    "summary": "Bay Area Real Estate Market Update \u2014 March 2026 (What Changed) [32fe2d] - Fathom Journal",
-    "source": "Fathom Journal",
-    "trend": "up",
+    "title": "More homes, lower prices, slower sales in SF - San Francisco Examiner",
+    "summary": "More homes, lower prices, slower sales in SF - San Francisco Examiner",
+    "source": "San Francisco Examiner",
+    "trend": "down",
     "category": "Market News",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xa1ZQTHQwVHhrekQ2UWMyMEVUellfYzNPWXFxX2M1cm5DU25fZ29ZLWxITzZYZTBpSlNZNDNubXJhckc4NzE5em1xWG1EMXlqSnptdFBaTkR6OUQ1N3dZMjViX0U1ZFRrc0FjZkNaNXo?oc=5",
-    "timestamp": "Tue, 07 Apr 2026 12:53:07 GMT",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeU1vOXNZQ09kT1BFb0hHRkF3NnBtdXpBaW53S2o4YVVpTmptWkRMVzdHNWxfdXhmX0lpYnluNFpvak1BYnZNaFBBR2Q5M3I5NG00V2pTVVFURmRRMW1FSFpXbTcwb3lHTmFLRDRuRkJnR2x6N1dwdjRmZE1IR0pyN1lxekxoaWp5Q0s0LWFwbU82NVNKdXNsSHpib3hhRmxRbWFIUWdnR1BRdS1GWENackVDeFlUTUpiWldKSE9kV2Y0clFwcHNmQVFEVFBhSElfN1pPUkE2WXUyVVNPSGs1NjN5NGlLNEhXTkJyWkZ0RDI?oc=5",
+    "timestamp": "Mon, 06 Oct 2025 07:00:00 GMT",
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
@@ -34,17 +34,6 @@
   },
   {
     "id": 4,
-    "title": "More homes, lower prices, slower sales in SF - San Francisco Examiner",
-    "summary": "More homes, lower prices, slower sales in SF - San Francisco Examiner",
-    "source": "San Francisco Examiner",
-    "trend": "down",
-    "category": "Market News",
-    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeU1vOXNZQ09kT1BFb0hHRkF3NnBtdXpBaW53S2o4YVVpTmptWkRMVzdHNWxfdXhmX0lpYnluNFpvak1BYnZNaFBBR2Q5M3I5NG00V2pTVVFURmRRMW1FSFpXbTcwb3lHTmFLRDRuRkJnR2x6N1dwdjRmZE1IR0pyN1lxekxoaWp5Q0s0LWFwbU82NVNKdXNsSHpib3hhRmxRbWFIUWdnR1BRdS1GWENackVDeFlUTUpiWldKSE9kV2Y0clFwcHNmQVFEVFBhSElfN1pPUkE2WXUyVVNPSGs1NjN5NGlLNEhXTkJyWkZ0RDI?oc=5",
-    "timestamp": "Mon, 06 Oct 2025 07:00:00 GMT",
-    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
-  },
-  {
-    "id": 5,
     "title": "Bay Area median home price down but remains above $1 million, realtors say - CBS News",
     "summary": "Bay Area median home price down but remains above $1 million, realtors say - CBS News",
     "source": "CBS News",
@@ -55,7 +44,7 @@
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
-    "id": 6,
+    "id": 5,
     "title": "Bay Area home sales dropped in July, but so far prices haven\u2019t followed - The Mercury News",
     "summary": "Bay Area home sales dropped in July, but so far prices haven\u2019t followed - The Mercury News",
     "source": "The Mercury News",
@@ -63,6 +52,17 @@
     "category": "Market News",
     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YY3FVUklOOEVlQUFvTTRibGhGUUJvU1NUUmZrTjR0SnhsMVJJMDVpWHMzMlNXMzZNbm9GcVdnTi0yY3hjeW94SjZpc3NNZkRjZmxMUE9LVVN2T3p1eEt6RUxjbG1GQkd2RWJ1TzFoRHVHU1NQRDZMVdIBfkFVX3lxTE82UjM2UHh0ajRLM0duMGdydXFrWGNncHM3LVByMl9SaGExX2lNQnljOUFTdGg1SXp2RmI3am96TWNpTWh6d2pHUjdtX0VFczNNVC1XQl9YWmgwTVhzRDNJQWRWT1hoODFGUEZCRE5FVmFaOFhqdWFDMm1XNkRhUQ?oc=5",
     "timestamp": "Wed, 27 Aug 2025 07:00:00 GMT",
+    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
+    "id": 6,
+    "title": "Luxury home sales reach highest October sales ever across the Bay Area - San Francisco Business Times - The Business Journals",
+    "summary": "Luxury home sales reach highest October sales ever across the Bay Area - San Francisco Business Times - The Business Journals",
+    "source": "The Business Journals",
+    "trend": "up",
+    "category": "Market News",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV1BYR1NYYnEzV3lIUWNUWVAwd21kNUN0UlM2cF92WF9oTU5ZM1RLWGRpREJ0Ny0xY2lGQ0R0LUpobFFOOUEyOW1ScXI0cUhyUDh2LWZ6SnVTRzNvNXRMWkVfVXRyTlJtZ0M4eVJLTlBxMDhvX1NzZ0Q0MWxURFBDcDlvYk1OcEdLUnpZUURxSXhCekxhamwzem5GQ3pmeFFwZFRwc25VY0N0MTRoMXc?oc=5",
+    "timestamp": "Wed, 12 Nov 2025 08:00:00 GMT",
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
@@ -100,13 +100,13 @@
   },
   {
     "id": 10,
-    "title": "Top 10 U.S. counties where prospective buyers need to earn the most to afford a home\u201480% are in California - CNBC",
-    "summary": "Top 10 U.S. counties where prospective buyers need to earn the most to afford a home\u201480% are in California - CNBC",
-    "source": "CNBC",
-    "trend": "neutral",
+    "title": "Starter Homes Still Available in High-Priced Bay Area Market: Agent - NBC Bay Area",
+    "summary": "Starter Homes Still Available in High-Priced Bay Area Market: Agent - NBC Bay Area",
+    "source": "NBC Bay Area",
+    "trend": "up",
     "category": "Market News",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNU1dWWnBVZ3VWQy01dl9uYnNUZWZIbmNnc244dldXbVdiVXZOUW5TMkM3Q0xmbjlsTjhYdkthbnZzRURVMWlVNkU0NFdUQXhabHFfUVdidVczSkhoYW5hdFBGOVh5bVh6ckhkYVB1ejB1TEhpb1NWZ0dBa0MxSWp6OG5FT2dvSHphQXfSAY8BQVVfeXFMTWU5bWdJNmFRVXhQenFQcDJYSVFwTXpMQlRUd3V1S3hxNEVDZ0hwQlZBdkRSN0lnZ0lEWGw3MUlVSmVRdURsYm10Y3pVMERKeW5aY0NqZjkxRHN1WlN0NFVHMndVbFJRTHpsSzVhSXMxU3FrWHFMMW9PSlRNTVNJWE84aVNnd3I3ckdING05Z28?oc=5",
-    "timestamp": "Fri, 07 Jul 2023 07:00:00 GMT",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa0IwbnZJSjYtemc4RzJRSEJKV2xtT1Axd09GbjBldUFoZTdzM1RmQmFkWGlYcC1sU1d3TGUtZHIxc1lxRGRUUVpHMjlMMDJzN3VTaVQ4dmJyOHRHVDUtMWVzUkhiLUFldncxRGpOYU1Qal9xaWFXd3BmTld3NWloZGR5OGJ3aFVSTFpUVm9DZUZpSThLQS14VjZFWS0tTmQweDFHMUNHOHdEQdIBsgFBVV95cUxNQ0dQTnFjYVRZSkVOWnhRdFROY2kzSXFlMmlaRUtSUklvT1pDWnZIclowSmlPZXU5a3dYeVUtS1VMd2VqY2NmdG5qUV9YTGM3TVRoOG10SmFXWXo3SEpiYlBPNmduTWtISHpxTnVfX2FFZE54UFloWmwtQ21LaXVhbGlfckZSR2dHeEdRWHQwUDZFMUZtZW0xcjJKcHhnTi1OLWJDVTFKYlVxdlB1LWFtNjhB?oc=5",
+    "timestamp": "Mon, 15 Jul 2019 07:00:00 GMT",
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   }
 ]
