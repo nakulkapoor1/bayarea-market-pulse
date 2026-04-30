@@ -1,13 +1,13 @@
 [
   {
     "id": 1,
-    "title": "Bay Area Housing Market: Trends and Forecast 2026 - Norada Real Estate Investments",
-    "summary": "Bay Area Housing Market: Trends and Forecast 2026 - Norada Real Estate Investments",
+    "title": "Bay Area Housing Market Forecast for the Next 2 Years: 2026-2027 - Norada Real Estate Investments",
+    "summary": "Bay Area Housing Market Forecast for the Next 2 Years: 2026-2027 - Norada Real Estate Investments",
     "source": "Norada Real Estate Investments",
     "trend": "neutral",
     "category": "Market News",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBaaUM4aERvWk43T0Y3SmxRTWZWWmdTRkJ4elRmbk9pNzVOdDRLOGpkWFphTnhnWG5LVm15MnN1azNFTnZSWTFVeWdxNGc2bl9vNklsblR3eE1Oazlrb29xSFJzU0F0cXE2OTY5N0FGZEUzMU14VXprU2F0cw?oc=5",
-    "timestamp": "Fri, 23 Jan 2026 08:00:00 GMT",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZzE1RndyYnMzX09uRzh4ajUxSUdtY0RSdXpZUmN1YVFxcVN2cTFvRUZNMG95UkthZ3BvcE5EazJpaFVjdldfbU9fQjBsODRYbmF0RU10d3JlSFlYbDF2QWczTmFlY1FUWDIyWlY1Z1hhYzBscFI0R3R2VEVyb2otRlZHaDZTZGZDUVdsV3V2WjRkbU8zbWc?oc=5",
+    "timestamp": "Wed, 08 Apr 2026 07:00:00 GMT",
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
@@ -23,6 +23,17 @@
   },
   {
     "id": 3,
+    "title": "Bay Area Housing Market: Trends and Forecast 2026 - Norada Real Estate Investments",
+    "summary": "Bay Area Housing Market: Trends and Forecast 2026 - Norada Real Estate Investments",
+    "source": "Norada Real Estate Investments",
+    "trend": "neutral",
+    "category": "Market News",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBaaUM4aERvWk43T0Y3SmxRTWZWWmdTRkJ4elRmbk9pNzVOdDRLOGpkWFphTnhnWG5LVm15MnN1azNFTnZSWTFVeWdxNGc2bl9vNklsblR3eE1Oazlrb29xSFJzU0F0cXE2OTY5N0FGZEUzMU14VXprU2F0cw?oc=5",
+    "timestamp": "Fri, 23 Jan 2026 08:00:00 GMT",
+    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
+    "id": 4,
     "title": "Bay Area median home price down but remains above $1 million, realtors say - CBS News",
     "summary": "Bay Area median home price down but remains above $1 million, realtors say - CBS News",
     "source": "CBS News",
@@ -30,17 +41,6 @@
     "category": "Market News",
     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM3VyWFhVRy1GMTc2RHo2VjZVck9MWnp1ckdQbmNPWWNvRVlqbGhYUkdqckxidk9qV0lGQVRIQUExUXpZNGE5cW5yanUxSnBxRTRPRlYzUzZ4aGVmM2tBTk5QbUxrSDFHZEJ2TzljN281TEN6T1RGZFpFUUxYU09IUkl1cEhjaGVKdXdnX0tFVnRwZ0lqcGJBUUp2NHgxZi1PTWxkQ2dRQTVBQWljMDF6eVE1bzFPb1E?oc=5",
     "timestamp": "Wed, 17 Dec 2025 08:00:00 GMT",
-    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
-  },
-  {
-    "id": 4,
-    "title": "\u2018From 25 mph to 100 mph\u2019: How the Bay Area housing market changed in 2025 - San Francisco Chronicle",
-    "summary": "\u2018From 25 mph to 100 mph\u2019: How the Bay Area housing market changed in 2025 - San Francisco Chronicle",
-    "source": "San Francisco Chronicle",
-    "trend": "neutral",
-    "category": "Market News",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUjVsYUxuUE5OYURfNkladE5oRWZHUTVHWFVLbzhKRm5zbmUtM1k0Vi0zVllzUi02SkNRc3B1T0EwQUhPYldOMm5iSzlaOVphRVVsSU1vdU9va3hsRDNNZkZEaW8tU2hSZmVpeW5nSkNKNDdQTmtHTmlFRGNMZUZCdDV1WUkyYjk5dGc?oc=5",
-    "timestamp": "Mon, 10 Nov 2025 08:00:00 GMT",
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
@@ -67,9 +67,9 @@
   },
   {
     "id": 7,
-    "title": "Bay Area home prices fall, marking largest annual price decline in California, figures show - ktvu.com",
-    "summary": "Bay Area home prices fall, marking largest annual price decline in California, figures show - ktvu.com",
-    "source": "ktvu.com",
+    "title": "Bay Area home prices fall, marking largest annual price decline in California, figures show - KTVU",
+    "summary": "Bay Area home prices fall, marking largest annual price decline in California, figures show - KTVU",
+    "source": "KTVU",
     "trend": "down",
     "category": "Market News",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWjI1MkhETk9HVEVhZWUxbGpLWDNrU3pUUXdfLXd4UG44WjREcE9wOEZ4dDBNLVYwbi0zLXl1NWFXaW4wa0ZObnJMYVNpbEhteTJMRWlrUmYtMzBvM2ZlWjR4UTk2YU5Lc2xkS3F3ZVQzVW9OaF9MaVJzR29vQ25SRE45YWc3d3hLaTU1X3JqVjR0aTF1MmM4X0RoSkI3UEhvR2E0VWlSc1MwRWN1YS1OWlln0gG3AUFVX3lxTFB4VHF1NGEwNnFVNkhSLUFiT3pPeWVfcFJuNXFnWWd5X1M4R0pnbmQweWloWU40QUkxTENBZmNoNkhzTUh3UERrYkQ0RFdpTFR1ZDVGa2c0Y0tvOWRONUVpU25iOWoxbzJJSnhuOGtsWW9zUGkteGx5THRqQWpxdTJmUTJPYjgxS3ZDY3ZzSkZvMDFabHJJOTZ3ZHN6LTFDV04xbGx2WG5SMVFnUWROWDdZM0Q4QWhETQ?oc=5",
@@ -89,13 +89,13 @@
   },
   {
     "id": 9,
-    "title": "Starter Homes Still Available in High-Priced Bay Area Market: Agent - NBC Bay Area",
-    "summary": "Starter Homes Still Available in High-Priced Bay Area Market: Agent - NBC Bay Area",
-    "source": "NBC Bay Area",
+    "title": "Yes, the price tag for a home in California just got higher - Palo Alto Online",
+    "summary": "Yes, the price tag for a home in California just got higher - Palo Alto Online",
+    "source": "Palo Alto Online",
     "trend": "up",
-    "category": "Market News",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa0IwbnZJSjYtemc4RzJRSEJKV2xtT1Axd09GbjBldUFoZTdzM1RmQmFkWGlYcC1sU1d3TGUtZHIxc1lxRGRUUVpHMjlMMDJzN3VTaVQ4dmJyOHRHVDUtMWVzUkhiLUFldncxRGpOYU1Qal9xaWFXd3BmTld3NWloZGR5OGJ3aFVSTFpUVm9DZUZpSThLQS14VjZFWS0tTmQweDFHMUNHOHdEQdIBsgFBVV95cUxNQ0dQTnFjYVRZSkVOWnhRdFROY2kzSXFlMmlaRUtSUklvT1pDWnZIclowSmlPZXU5a3dYeVUtS1VMd2VqY2NmdG5qUV9YTGM3TVRoOG10SmFXWXo3SEpiYlBPNmduTWtISHpxTnVfX2FFZE54UFloWmwtQ21LaXVhbGlfckZSR2dHeEdRWHQwUDZFMUZtZW0xcjJKcHhnTi1OLWJDVTFKYlVxdlB1LWFtNjhB?oc=5",
-    "timestamp": "Mon, 15 Jul 2019 07:00:00 GMT",
+    "category": "Santa Clara County",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd2Zta1lob2NEUTdRb2UxZlRUVzJlZzZlRkFMOW5kYkp6Q21HZjRQczFKTWhBVVNRUXdUWHNtVmhVck5Rd3YtVHlKTmUyLS1QaklNT3BGN2VadFhWa2xSMW1zLWFoUzNkc1pFOHRSZ3FKVTdkNVIxZkhQUE54SzROZGh5akRqdThFY3dpYmpnbjNlREQ4czAySElIRGUzTndTODZJa0d2bzdwTDBheGZHQUVOYw?oc=5",
+    "timestamp": "Wed, 30 Aug 2023 07:00:00 GMT",
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
