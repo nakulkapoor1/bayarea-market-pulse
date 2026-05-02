@@ -1,6 +1,17 @@
 [
   {
     "id": 1,
+    "title": "Bay Area Housing Market Forecast for the Next 2 Years: 2026-2027 - Norada Real Estate Investments",
+    "summary": "Bay Area Housing Market Forecast for the Next 2 Years: 2026-2027 - Norada Real Estate Investments",
+    "source": "Norada Real Estate Investments",
+    "trend": "neutral",
+    "category": "Market News",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZzE1RndyYnMzX09uRzh4ajUxSUdtY0RSdXpZUmN1YVFxcVN2cTFvRUZNMG95UkthZ3BvcE5EazJpaFVjdldfbU9fQjBsODRYbmF0RU10d3JlSFlYbDF2QWczTmFlY1FUWDIyWlY1Z1hhYzBscFI0R3R2VEVyb2otRlZHaDZTZGZDUVdsV3V2WjRkbU8zbWc?oc=5",
+    "timestamp": "Wed, 08 Apr 2026 07:00:00 GMT",
+    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
+    "id": 2,
     "title": "Bay Area Housing Market: Trends and Forecast 2026 - Norada Real Estate Investments",
     "summary": "Bay Area Housing Market: Trends and Forecast 2026 - Norada Real Estate Investments",
     "source": "Norada Real Estate Investments",
@@ -11,25 +22,14 @@
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
-    "id": 2,
-    "title": "More homes, lower prices, slower sales in SF - San Francisco Examiner",
-    "summary": "More homes, lower prices, slower sales in SF - San Francisco Examiner",
-    "source": "San Francisco Examiner",
+    "id": 3,
+    "title": "S.F. didn\u2019t make Zillow\u2019s list of hottest markets \u2014 but one part of the Bay Area did - San Francisco Chronicle",
+    "summary": "S.F. didn\u2019t make Zillow\u2019s list of hottest markets \u2014 but one part of the Bay Area did - San Francisco Chronicle",
+    "source": "San Francisco Chronicle",
     "trend": "down",
     "category": "Market News",
-    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeU1vOXNZQ09kT1BFb0hHRkF3NnBtdXpBaW53S2o4YVVpTmptWkRMVzdHNWxfdXhmX0lpYnluNFpvak1BYnZNaFBBR2Q5M3I5NG00V2pTVVFURmRRMW1FSFpXbTcwb3lHTmFLRDRuRkJnR2x6N1dwdjRmZE1IR0pyN1lxekxoaWp5Q0s0LWFwbU82NVNKdXNsSHpib3hhRmxRbWFIUWdnR1BRdS1GWENackVDeFlUTUpiWldKSE9kV2Y0clFwcHNmQVFEVFBhSElfN1pPUkE2WXUyVVNPSGs1NjN5NGlLNEhXTkJyWkZ0RDI?oc=5",
-    "timestamp": "Mon, 06 Oct 2025 07:00:00 GMT",
-    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
-  },
-  {
-    "id": 3,
-    "title": "\u2018From 25 mph to 100 mph\u2019: How the Bay Area housing market changed in 2025 - San Francisco Chronicle",
-    "summary": "\u2018From 25 mph to 100 mph\u2019: How the Bay Area housing market changed in 2025 - San Francisco Chronicle",
-    "source": "San Francisco Chronicle",
-    "trend": "neutral",
-    "category": "Market News",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUjVsYUxuUE5OYURfNkladE5oRWZHUTVHWFVLbzhKRm5zbmUtM1k0Vi0zVllzUi02SkNRc3B1T0EwQUhPYldOMm5iSzlaOVphRVVsSU1vdU9va3hsRDNNZkZEaW8tU2hSZmVpeW5nSkNKNDdQTmtHTmlFRGNMZUZCdDV1WUkyYjk5dGc?oc=5",
-    "timestamp": "Mon, 10 Nov 2025 08:00:00 GMT",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRmF1Wk94XzFIMFV5NGN0MFhtLUhtdC1pUWpJRG9IZ05sWkp1ZGVkV1Z0QkFfR3NLYms5b05PYW12VEwxNEx4MThkVlNYSUJlbVdmVmV2cUNtY0hSNG9FbEtQN09CVVJrQlNSakpERnlRa2hMTkxXNG1BR0ZHcU9GeUhBV3dWNDJocVIwRENrMjVEbmc?oc=5",
+    "timestamp": "Tue, 20 Jan 2026 08:00:00 GMT",
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
@@ -45,17 +45,28 @@
   },
   {
     "id": 5,
-    "title": "Bay Area Housing Market Forecast for the Next 2 Years: 2026-2027 - Norada Real Estate Investments",
-    "summary": "Bay Area Housing Market Forecast for the Next 2 Years: 2026-2027 - Norada Real Estate Investments",
-    "source": "Norada Real Estate Investments",
+    "title": "\u2018From 25 mph to 100 mph\u2019: How the Bay Area housing market changed in 2025 - San Francisco Chronicle",
+    "summary": "\u2018From 25 mph to 100 mph\u2019: How the Bay Area housing market changed in 2025 - San Francisco Chronicle",
+    "source": "San Francisco Chronicle",
     "trend": "neutral",
     "category": "Market News",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZzE1RndyYnMzX09uRzh4ajUxSUdtY0RSdXpZUmN1YVFxcVN2cTFvRUZNMG95UkthZ3BvcE5EazJpaFVjdldfbU9fQjBsODRYbmF0RU10d3JlSFlYbDF2QWczTmFlY1FUWDIyWlY1Z1hhYzBscFI0R3R2VEVyb2otRlZHaDZTZGZDUVdsV3V2WjRkbU8zbWc?oc=5",
-    "timestamp": "Wed, 08 Apr 2026 07:00:00 GMT",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUjVsYUxuUE5OYURfNkladE5oRWZHUTVHWFVLbzhKRm5zbmUtM1k0Vi0zVllzUi02SkNRc3B1T0EwQUhPYldOMm5iSzlaOVphRVVsSU1vdU9va3hsRDNNZkZEaW8tU2hSZmVpeW5nSkNKNDdQTmtHTmlFRGNMZUZCdDV1WUkyYjk5dGc?oc=5",
+    "timestamp": "Mon, 10 Nov 2025 08:00:00 GMT",
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
     "id": 6,
+    "title": "More homes, lower prices, slower sales in SF - San Francisco Examiner",
+    "summary": "More homes, lower prices, slower sales in SF - San Francisco Examiner",
+    "source": "San Francisco Examiner",
+    "trend": "down",
+    "category": "Market News",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeU1vOXNZQ09kT1BFb0hHRkF3NnBtdXpBaW53S2o4YVVpTmptWkRMVzdHNWxfdXhmX0lpYnluNFpvak1BYnZNaFBBR2Q5M3I5NG00V2pTVVFURmRRMW1FSFpXbTcwb3lHTmFLRDRuRkJnR2x6N1dwdjRmZE1IR0pyN1lxekxoaWp5Q0s0LWFwbU82NVNKdXNsSHpib3hhRmxRbWFIUWdnR1BRdS1GWENackVDeFlUTUpiWldKSE9kV2Y0clFwcHNmQVFEVFBhSElfN1pPUkE2WXUyVVNPSGs1NjN5NGlLNEhXTkJyWkZ0RDI?oc=5",
+    "timestamp": "Mon, 06 Oct 2025 07:00:00 GMT",
+    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
+    "id": 7,
     "title": "Bay Area home sales dropped in July, but so far prices haven\u2019t followed - The Mercury News",
     "summary": "Bay Area home sales dropped in July, but so far prices haven\u2019t followed - The Mercury News",
     "source": "The Mercury News",
@@ -63,17 +74,6 @@
     "category": "Market News",
     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YY3FVUklOOEVlQUFvTTRibGhGUUJvU1NUUmZrTjR0SnhsMVJJMDVpWHMzMlNXMzZNbm9GcVdnTi0yY3hjeW94SjZpc3NNZkRjZmxMUE9LVVN2T3p1eEt6RUxjbG1GQkd2RWJ1TzFoRHVHU1NQRDZMVdIBfkFVX3lxTE82UjM2UHh0ajRLM0duMGdydXFrWGNncHM3LVByMl9SaGExX2lNQnljOUFTdGg1SXp2RmI3am96TWNpTWh6d2pHUjdtX0VFczNNVC1XQl9YWmgwTVhzRDNJQWRWT1hoODFGUEZCRE5FVmFaOFhqdWFDMm1XNkRhUQ?oc=5",
     "timestamp": "Wed, 27 Aug 2025 07:00:00 GMT",
-    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
-  },
-  {
-    "id": 7,
-    "title": "S.F. didn\u2019t make Zillow\u2019s list of hottest markets \u2014 but one part of the Bay Area did - San Francisco Chronicle",
-    "summary": "S.F. didn\u2019t make Zillow\u2019s list of hottest markets \u2014 but one part of the Bay Area did - San Francisco Chronicle",
-    "source": "San Francisco Chronicle",
-    "trend": "down",
-    "category": "Market News",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRmF1Wk94XzFIMFV5NGN0MFhtLUhtdC1pUWpJRG9IZ05sWkp1ZGVkV1Z0QkFfR3NLYms5b05PYW12VEwxNEx4MThkVlNYSUJlbVdmVmV2cUNtY0hSNG9FbEtQN09CVVJrQlNSakpERnlRa2hMTkxXNG1BR0ZHcU9GeUhBV3dWNDJocVIwRENrMjVEbmc?oc=5",
-    "timestamp": "Tue, 20 Jan 2026 08:00:00 GMT",
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
