@@ -45,6 +45,17 @@
   },
   {
     "id": 5,
+    "title": "City of San Mateo says it's ready to build, build, build low and moderate housing income units - ABC7 San Francisco",
+    "summary": "City of San Mateo says it's ready to build, build, build low and moderate housing income units - ABC7 San Francisco",
+    "source": "ABC7 San Francisco",
+    "trend": "down",
+    "category": "San Mateo County",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSHJibkxnc1JRU20zS1RYd2lfWUhzZktvQUVZeExXOEltZXo3Z0xvOGlVUkI2cWFFbUo3QXptTHhOcUZkbDRsWm9pamxkZmZWZUpjTUxjS0pvSzVEX2duQkhJdkNueDlRZG5zYkJlRi10WmdUUzZPN2VHOG05TF9GZW5VbXRQNTV1MVJ4VWN1U256S0xkRExoRTB0OE5XWi1rSjAw0gGoAUFVX3lxTE5mZGJscC1vQ3MtSWJmcXZoVU5RUnRsempjWnhxTEdkemJXVEVVN3Q4a3NEbmRENnVXTmgxUTVXZW5TaFM4SElfRTFtRmt5MHRHLXJCQkt5VVNRcU50QWZiNGVGSFFlYVFmWkpxbFJqZ2xoZEJmRmdBSXM5Q1ZJMlBQeXE3R21oYlRDZ1N3MDVSOE1rcWRTandJcGc4c2QwMFAyRzlxeTkxNg?oc=5",
+    "timestamp": "Wed, 17 Dec 2025 08:00:00 GMT",
+    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
+    "id": 6,
     "title": "More homes, lower prices, slower sales in SF - San Francisco Examiner",
     "summary": "More homes, lower prices, slower sales in SF - San Francisco Examiner",
     "source": "San Francisco Examiner",
@@ -55,7 +66,7 @@
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
-    "id": 6,
+    "id": 7,
     "title": "Bay Area home sales dropped in July, but so far prices haven\u2019t followed - The Mercury News",
     "summary": "Bay Area home sales dropped in July, but so far prices haven\u2019t followed - The Mercury News",
     "source": "The Mercury News",
@@ -66,7 +77,7 @@
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
-    "id": 7,
+    "id": 8,
     "title": "Bay Area home prices fall, marking largest annual price decline in California, figures show - KTVU",
     "summary": "Bay Area home prices fall, marking largest annual price decline in California, figures show - KTVU",
     "source": "KTVU",
@@ -77,7 +88,7 @@
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
-    "id": 8,
+    "id": 9,
     "title": "Top 10 U.S. counties where prospective buyers need to earn the most to afford a home\u201480% are in California - CNBC",
     "summary": "Top 10 U.S. counties where prospective buyers need to earn the most to afford a home\u201480% are in California - CNBC",
     "source": "CNBC",
@@ -88,7 +99,7 @@
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
-    "id": 9,
+    "id": 10,
     "title": "Silicon Valley buyers need $1M+ salaries for homes in priciest cities - San Jos\u00e9 Spotlight",
     "summary": "Silicon Valley buyers need $1M+ salaries for homes in priciest cities - San Jos\u00e9 Spotlight",
     "source": "San Jos\u00e9 Spotlight",
@@ -96,17 +107,6 @@
     "category": "Silicon Valley",
     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOHdvWjhlRjhmZUdvbktnN2JnWVNXYlk0YTRkNERHVl9ubHNEU2VDYWg2SUpmcHpFelY5dVQzYS1aYnRjMjdPTlU4S25fN1J4LW5LdTZKdk96T1M0TWs2Q0t5RnRzU3Z4ZC0wT09WcmhvYlQwMjM5RlNlS1JlRTRwLUV4NkF4Qk9sTjVTNGNKeHlQNFk1Tmk1bjRKT3JaZw?oc=5",
     "timestamp": "Wed, 06 May 2026 23:05:23 GMT",
-    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
-  },
-  {
-    "id": 10,
-    "title": "\u2018From 25 mph to 100 mph\u2019: How the Bay Area housing market changed in 2025 - San Francisco Chronicle",
-    "summary": "\u2018From 25 mph to 100 mph\u2019: How the Bay Area housing market changed in 2025 - San Francisco Chronicle",
-    "source": "San Francisco Chronicle",
-    "trend": "neutral",
-    "category": "Market News",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUjVsYUxuUE5OYURfNkladE5oRWZHUTVHWFVLbzhKRm5zbmUtM1k0Vi0zVllzUi02SkNRc3B1T0EwQUhPYldOMm5iSzlaOVphRVVsSU1vdU9va3hsRDNNZkZEaW8tU2hSZmVpeW5nSkNKNDdQTmtHTmlFRGNMZUZCdDV1WUkyYjk5dGc?oc=5",
-    "timestamp": "Mon, 10 Nov 2025 08:00:00 GMT",
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   }
 ]
