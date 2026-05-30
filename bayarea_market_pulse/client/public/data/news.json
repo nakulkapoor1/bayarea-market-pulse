@@ -56,12 +56,12 @@
   },
   {
     "id": 6,
-    "title": "Bay Area home sales dropped in July, but so far prices haven\u2019t followed - The Mercury News",
-    "summary": "Bay Area home sales dropped in July, but so far prices haven\u2019t followed - The Mercury News",
-    "source": "The Mercury News",
+    "title": "Bay Area home sales dropped in July, but so far prices haven\u2019t followed - SiliconValley.com",
+    "summary": "Bay Area home sales dropped in July, but so far prices haven\u2019t followed - SiliconValley.com",
+    "source": "SiliconValley.com",
     "trend": "down",
     "category": "Market News",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YY3FVUklOOEVlQUFvTTRibGhGUUJvU1NUUmZrTjR0SnhsMVJJMDVpWHMzMlNXMzZNbm9GcVdnTi0yY3hjeW94SjZpc3NNZkRjZmxMUE9LVVN2T3p1eEt6RUxjbG1GQkd2RWJ1TzFoRHVHU1NQRDZMVdIBfkFVX3lxTE82UjM2UHh0ajRLM0duMGdydXFrWGNncHM3LVByMl9SaGExX2lNQnljOUFTdGg1SXp2RmI3am96TWNpTWh6d2pHUjdtX0VFczNNVC1XQl9YWmgwTVhzRDNJQWRWT1hoODFGUEZCRE5FVmFaOFhqdWFDMm1XNkRhUQ?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5BOE42UmlPR3hMY25Sd0tyYjRVZHc4ejExOWZmQXFVd3pNeTlDUVJmdlEwWEZ0VDRxZzZmMWxxZTVFY0xPRjA0U0FiSnV3Q3ZGQ21TQ0pJRW1ZRElFVDZOdjU3emNZcGVsVXVkdkdqNEcyN3lrSUtQX2tJa9IBgAFBVV95cUxNRWo2QUNwTWc2ZWtOLVhTVXRTX2NnYkhudmdXY2plWWg2dWh5Z1pmc0o1M3cyMmxYaGJFdjFnTGV4NGhnR3YtVnM2dURoWjhPSkdtb2lqdDQ5RlVKcWFFWkptOHdlakgwMlRWb25KZmRQd28wYlJwLXpOQlJJTmYyZQ?oc=5",
     "timestamp": "Wed, 27 Aug 2025 07:00:00 GMT",
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
@@ -78,17 +78,6 @@
   },
   {
     "id": 8,
-    "title": "Bay Area home prices fall, marking largest annual price decline in California, figures show - KTVU",
-    "summary": "Bay Area home prices fall, marking largest annual price decline in California, figures show - KTVU",
-    "source": "KTVU",
-    "trend": "down",
-    "category": "Market News",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWjI1MkhETk9HVEVhZWUxbGpLWDNrU3pUUXdfLXd4UG44WjREcE9wOEZ4dDBNLVYwbi0zLXl1NWFXaW4wa0ZObnJMYVNpbEhteTJMRWlrUmYtMzBvM2ZlWjR4UTk2YU5Lc2xkS3F3ZVQzVW9OaF9MaVJzR29vQ25SRE45YWc3d3hLaTU1X3JqVjR0aTF1MmM4X0RoSkI3UEhvR2E0VWlSc1MwRWN1YS1OWlln0gG3AUFVX3lxTFB4VHF1NGEwNnFVNkhSLUFiT3pPeWVfcFJuNXFnWWd5X1M4R0pnbmQweWloWU40QUkxTENBZmNoNkhzTUh3UERrYkQ0RFdpTFR1ZDVGa2c0Y0tvOWRONUVpU25iOWoxbzJJSnhuOGtsWW9zUGkteGx5THRqQWpxdTJmUTJPYjgxS3ZDY3ZzSkZvMDFabHJJOTZ3ZHN6LTFDV04xbGx2WG5SMVFnUWROWDdZM0Q4QWhETQ?oc=5",
-    "timestamp": "Tue, 16 Dec 2025 08:00:00 GMT",
-    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
-  },
-  {
-    "id": 9,
     "title": "Top 10 U.S. counties where prospective buyers need to earn the most to afford a home\u201480% are in California - CNBC",
     "summary": "Top 10 U.S. counties where prospective buyers need to earn the most to afford a home\u201480% are in California - CNBC",
     "source": "CNBC",
@@ -96,6 +85,17 @@
     "category": "Market News",
     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNU1dWWnBVZ3VWQy01dl9uYnNUZWZIbmNnc244dldXbVdiVXZOUW5TMkM3Q0xmbjlsTjhYdkthbnZzRURVMWlVNkU0NFdUQXhabHFfUVdidVczSkhoYW5hdFBGOVh5bVh6ckhkYVB1ejB1TEhpb1NWZ0dBa0MxSWp6OG5FT2dvSHphQXfSAY8BQVVfeXFMTWU5bWdJNmFRVXhQenFQcDJYSVFwTXpMQlRUd3V1S3hxNEVDZ0hwQlZBdkRSN0lnZ0lEWGw3MUlVSmVRdURsYm10Y3pVMERKeW5aY0NqZjkxRHN1WlN0NFVHMndVbFJRTHpsSzVhSXMxU3FrWHFMMW9PSlRNTVNJWE84aVNnd3I3ckdING05Z28?oc=5",
     "timestamp": "Fri, 07 Jul 2023 07:00:00 GMT",
+    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
+    "id": 9,
+    "title": "Bay Area home prices fall, marking largest annual price decline in California, figures show - KTVU",
+    "summary": "Bay Area home prices fall, marking largest annual price decline in California, figures show - KTVU",
+    "source": "KTVU",
+    "trend": "down",
+    "category": "Market News",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWjI1MkhETk9HVEVhZWUxbGpLWDNrU3pUUXdfLXd4UG44WjREcE9wOEZ4dDBNLVYwbi0zLXl1NWFXaW4wa0ZObnJMYVNpbEhteTJMRWlrUmYtMzBvM2ZlWjR4UTk2YU5Lc2xkS3F3ZVQzVW9OaF9MaVJzR29vQ25SRE45YWc3d3hLaTU1X3JqVjR0aTF1MmM4X0RoSkI3UEhvR2E0VWlSc1MwRWN1YS1OWlln0gG3AUFVX3lxTFB4VHF1NGEwNnFVNkhSLUFiT3pPeWVfcFJuNXFnWWd5X1M4R0pnbmQweWloWU40QUkxTENBZmNoNkhzTUh3UERrYkQ0RFdpTFR1ZDVGa2c0Y0tvOWRONUVpU25iOWoxbzJJSnhuOGtsWW9zUGkteGx5THRqQWpxdTJmUTJPYjgxS3ZDY3ZzSkZvMDFabHJJOTZ3ZHN6LTFDV04xbGx2WG5SMVFnUWROWDdZM0Q4QWhETQ?oc=5",
+    "timestamp": "Tue, 16 Dec 2025 08:00:00 GMT",
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
