@@ -34,17 +34,6 @@
   },
   {
     "id": 4,
-    "title": "Hotel development plummets in Bay Area as lodging uncertainties linger - The Mercury News",
-    "summary": "Hotel development plummets in Bay Area as lodging uncertainties linger - The Mercury News",
-    "source": "The Mercury News",
-    "trend": "neutral",
-    "category": "Market News",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQmRQQUNHUUFJMDBUWlcxX3NDTHhBZTF1bWktRW5DVlJrYmF1eXdpaUVEbWdFRG1BZ2Uza1M4ejB2MHZidGFJZnhxcDhUa3RfVG5mUzNiSjlINU5QV3hTZGxVcmpZSXlPWlFLdkhkRThkTlVnN0hFckE1eFQ3YnFpV1NodmVOZzZQRlluS1RHQ05oODkwUHBISkZ3WVNBaWFLMGtTeklHVmV3MTE3R0Yw0gG0AUFVX3lxTE5Sb1Q0UXRKY09Tc1U0dDFzbFROX1ZhaGNtdVpVbDhPYnlPaWpsWVd6VzZzTnk4SFQ1eFduX0NNVkhZdjRBUnNNVS10akRJazlmZnpEN2RHQ0xMMHgtV2JkdGdJV2o2UE5RWjNCU1duVVVsWkVjTmNEaUVYT05SRURlTl9lSWdsX2FMX0dBdEF0enI4SmhxNFNfTHZlZ2Uza2FBMl96S1Z4TGRJQmVpVUZiLXl6LQ?oc=5",
-    "timestamp": "Thu, 15 Jan 2026 08:00:00 GMT",
-    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
-  },
-  {
-    "id": 5,
     "title": "Bay Area median home price down but remains above $1 million, realtors say - CBS News",
     "summary": "Bay Area median home price down but remains above $1 million, realtors say - CBS News",
     "source": "CBS News",
@@ -55,7 +44,7 @@
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
-    "id": 6,
+    "id": 5,
     "title": "More homes, lower prices, slower sales in SF - San Francisco Examiner",
     "summary": "More homes, lower prices, slower sales in SF - San Francisco Examiner",
     "source": "San Francisco Examiner",
@@ -66,18 +55,18 @@
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
-    "id": 7,
-    "title": "Navigating Solano County market\u2019s mood swings - The Vacaville Reporter",
-    "summary": "Navigating Solano County market\u2019s mood swings - The Vacaville Reporter",
-    "source": "The Vacaville Reporter",
-    "trend": "neutral",
+    "id": 6,
+    "title": "Bay Area home sales dropped in July, but so far prices haven\u2019t followed - The Mercury News",
+    "summary": "Bay Area home sales dropped in July, but so far prices haven\u2019t followed - The Mercury News",
+    "source": "The Mercury News",
+    "trend": "down",
     "category": "Market News",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdnNReXkwZHFHdC1Vb0ktZVdvcF9aaXJDbkFsN0tLc3lQdEJvS3VRY1F3NFU1M1VnUXp0WmxES05GdkZyUi05UmdxRWF0UWtMU3pSeDhBM2dKaGV0eHNxNXBXRkotYW8wRnkydHRHd1dfRWIyMEF6LUxZdGFyUm5vOU1HelZ3OVBfWEJWSA?oc=5",
-    "timestamp": "Mon, 07 Jul 2025 07:00:00 GMT",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YY3FVUklOOEVlQUFvTTRibGhGUUJvU1NUUmZrTjR0SnhsMVJJMDVpWHMzMlNXMzZNbm9GcVdnTi0yY3hjeW94SjZpc3NNZkRjZmxMUE9LVVN2T3p1eEt6RUxjbG1GQkd2RWJ1TzFoRHVHU1NQRDZMVdIBfkFVX3lxTE82UjM2UHh0ajRLM0duMGdydXFrWGNncHM3LVByMl9SaGExX2lNQnljOUFTdGg1SXp2RmI3am96TWNpTWh6d2pHUjdtX0VFczNNVC1XQl9YWmgwTVhzRDNJQWRWT1hoODFGUEZCRE5FVmFaOFhqdWFDMm1XNkRhUQ?oc=5",
+    "timestamp": "Wed, 27 Aug 2025 07:00:00 GMT",
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
-    "id": 8,
+    "id": 7,
     "title": "Home Listings Across Much of the Bay Area Go Stale - The Real Deal",
     "summary": "Home Listings Across Much of the Bay Area Go Stale - The Real Deal",
     "source": "The Real Deal",
@@ -85,6 +74,17 @@
     "category": "Market News",
     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOE1MVXZaWW5jY1FCektvZXZDMU56Nlp5YngzaUhwaHNrcXZOaVM2WHNkQTJ3d0JEdk1YcV84OVFoaGpFbDZPaTJvNEhlb1JhbEJsOHdJNGFoYUZITHdFU2pwcTlhZTFXY3R5Wm5DaEZfRWJueEdJVFAwdDA5ZnRFRXRxU2hyTnd3RnNldS1SUmsxVEZsLUFsNnE2ak5hLXJ2Tmc?oc=5",
     "timestamp": "Tue, 06 Aug 2024 07:00:00 GMT",
+    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
+    "id": 8,
+    "title": "Top 10 U.S. counties where prospective buyers need to earn the most to afford a home\u201480% are in California - CNBC",
+    "summary": "Top 10 U.S. counties where prospective buyers need to earn the most to afford a home\u201480% are in California - CNBC",
+    "source": "CNBC",
+    "trend": "neutral",
+    "category": "Market News",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNU1dWWnBVZ3VWQy01dl9uYnNUZWZIbmNnc244dldXbVdiVXZOUW5TMkM3Q0xmbjlsTjhYdkthbnZzRURVMWlVNkU0NFdUQXhabHFfUVdidVczSkhoYW5hdFBGOVh5bVh6ckhkYVB1ejB1TEhpb1NWZ0dBa0MxSWp6OG5FT2dvSHphQXfSAY8BQVVfeXFMTWU5bWdJNmFRVXhQenFQcDJYSVFwTXpMQlRUd3V1S3hxNEVDZ0hwQlZBdkRSN0lnZ0lEWGw3MUlVSmVRdURsYm10Y3pVMERKeW5aY0NqZjkxRHN1WlN0NFVHMndVbFJRTHpsSzVhSXMxU3FrWHFMMW9PSlRNTVNJWE84aVNnd3I3ckdING05Z28?oc=5",
+    "timestamp": "Fri, 07 Jul 2023 07:00:00 GMT",
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
