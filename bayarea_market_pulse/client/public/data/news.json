@@ -23,17 +23,6 @@
   },
   {
     "id": 3,
-    "title": "Bay Area Housing Market Forecast for the Next 2 Years: 2026-2027 - Norada Real Estate Investments",
-    "summary": "Bay Area Housing Market Forecast for the Next 2 Years: 2026-2027 - Norada Real Estate Investments",
-    "source": "Norada Real Estate Investments",
-    "trend": "neutral",
-    "category": "Market News",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZzE1RndyYnMzX09uRzh4ajUxSUdtY0RSdXpZUmN1YVFxcVN2cTFvRUZNMG95UkthZ3BvcE5EazJpaFVjdldfbU9fQjBsODRYbmF0RU10d3JlSFlYbDF2QWczTmFlY1FUWDIyWlY1Z1hhYzBscFI0R3R2VEVyb2otRlZHaDZTZGZDUVdsV3V2WjRkbU8zbWc?oc=5",
-    "timestamp": "Wed, 08 Apr 2026 07:00:00 GMT",
-    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
-  },
-  {
-    "id": 4,
     "title": "Bay Area median home price down but remains above $1 million, realtors say - CBS News",
     "summary": "Bay Area median home price down but remains above $1 million, realtors say - CBS News",
     "source": "CBS News",
@@ -41,6 +30,17 @@
     "category": "Market News",
     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM3VyWFhVRy1GMTc2RHo2VjZVck9MWnp1ckdQbmNPWWNvRVlqbGhYUkdqckxidk9qV0lGQVRIQUExUXpZNGE5cW5yanUxSnBxRTRPRlYzUzZ4aGVmM2tBTk5QbUxrSDFHZEJ2TzljN281TEN6T1RGZFpFUUxYU09IUkl1cEhjaGVKdXdnX0tFVnRwZ0lqcGJBUUp2NHgxZi1PTWxkQ2dRQTVBQWljMDF6eVE1bzFPb1E?oc=5",
     "timestamp": "Wed, 17 Dec 2025 08:00:00 GMT",
+    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
+    "id": 4,
+    "title": "Bay Area Housing Market Forecast for the Next 2 Years: 2026-2027 - Norada Real Estate Investments",
+    "summary": "Bay Area Housing Market Forecast for the Next 2 Years: 2026-2027 - Norada Real Estate Investments",
+    "source": "Norada Real Estate Investments",
+    "trend": "neutral",
+    "category": "Market News",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZzE1RndyYnMzX09uRzh4ajUxSUdtY0RSdXpZUmN1YVFxcVN2cTFvRUZNMG95UkthZ3BvcE5EazJpaFVjdldfbU9fQjBsODRYbmF0RU10d3JlSFlYbDF2QWczTmFlY1FUWDIyWlY1Z1hhYzBscFI0R3R2VEVyb2otRlZHaDZTZGZDUVdsV3V2WjRkbU8zbWc?oc=5",
+    "timestamp": "Wed, 08 Apr 2026 07:00:00 GMT",
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
@@ -89,17 +89,6 @@
   },
   {
     "id": 9,
-    "title": "\u2018From 25 mph to 100 mph\u2019: How the Bay Area housing market changed in 2025 - San Francisco Chronicle",
-    "summary": "\u2018From 25 mph to 100 mph\u2019: How the Bay Area housing market changed in 2025 - San Francisco Chronicle",
-    "source": "San Francisco Chronicle",
-    "trend": "neutral",
-    "category": "Market News",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUjVsYUxuUE5OYURfNkladE5oRWZHUTVHWFVLbzhKRm5zbmUtM1k0Vi0zVllzUi02SkNRc3B1T0EwQUhPYldOMm5iSzlaOVphRVVsSU1vdU9va3hsRDNNZkZEaW8tU2hSZmVpeW5nSkNKNDdQTmtHTmlFRGNMZUZCdDV1WUkyYjk5dGc?oc=5",
-    "timestamp": "Mon, 10 Nov 2025 08:00:00 GMT",
-    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
-  },
-  {
-    "id": 10,
     "title": "Bay Area home prices fall, marking largest annual price decline in California, figures show - KTVU",
     "summary": "Bay Area home prices fall, marking largest annual price decline in California, figures show - KTVU",
     "source": "KTVU",
@@ -107,6 +96,17 @@
     "category": "Market News",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWjI1MkhETk9HVEVhZWUxbGpLWDNrU3pUUXdfLXd4UG44WjREcE9wOEZ4dDBNLVYwbi0zLXl1NWFXaW4wa0ZObnJMYVNpbEhteTJMRWlrUmYtMzBvM2ZlWjR4UTk2YU5Lc2xkS3F3ZVQzVW9OaF9MaVJzR29vQ25SRE45YWc3d3hLaTU1X3JqVjR0aTF1MmM4X0RoSkI3UEhvR2E0VWlSc1MwRWN1YS1OWlln0gG3AUFVX3lxTFB4VHF1NGEwNnFVNkhSLUFiT3pPeWVfcFJuNXFnWWd5X1M4R0pnbmQweWloWU40QUkxTENBZmNoNkhzTUh3UERrYkQ0RFdpTFR1ZDVGa2c0Y0tvOWRONUVpU25iOWoxbzJJSnhuOGtsWW9zUGkteGx5THRqQWpxdTJmUTJPYjgxS3ZDY3ZzSkZvMDFabHJJOTZ3ZHN6LTFDV04xbGx2WG5SMVFnUWROWDdZM0Q4QWhETQ?oc=5",
     "timestamp": "Tue, 16 Dec 2025 08:00:00 GMT",
+    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
+    "id": 10,
+    "title": "\u2018From 25 mph to 100 mph\u2019: How the Bay Area housing market changed in 2025 - San Francisco Chronicle",
+    "summary": "\u2018From 25 mph to 100 mph\u2019: How the Bay Area housing market changed in 2025 - San Francisco Chronicle",
+    "source": "San Francisco Chronicle",
+    "trend": "neutral",
+    "category": "Market News",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUjVsYUxuUE5OYURfNkladE5oRWZHUTVHWFVLbzhKRm5zbmUtM1k0Vi0zVllzUi02SkNRc3B1T0EwQUhPYldOMm5iSzlaOVphRVVsSU1vdU9va3hsRDNNZkZEaW8tU2hSZmVpeW5nSkNKNDdQTmtHTmlFRGNMZUZCdDV1WUkyYjk5dGc?oc=5",
+    "timestamp": "Mon, 10 Nov 2025 08:00:00 GMT",
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   }
 ]
