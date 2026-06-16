@@ -1,17 +1,6 @@
 [
   {
     "id": 1,
-    "title": "The Bay Area Real Estate Market Update - December 2025 (TRLsLfdPrN) - Fathom Journal",
-    "summary": "The Bay Area Real Estate Market Update - December 2025 (TRLsLfdPrN) - Fathom Journal",
-    "source": "Fathom Journal",
-    "trend": "up",
-    "category": "Market News",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00Wm9jUi13eHUyS3lEa1N4TElJVjh3cWMzYnRXRndUbE16MmtyWVBmLXZaY0YzdlF1bklyQTR4UzAxTGJ4YVlyeXNWSENuQlVJUnl3T0c2bFFXYlNYWGdmM0V4NWlfRUdUYW1zd3k3b3o?oc=5",
-    "timestamp": "Sun, 07 Jun 2026 05:24:26 GMT",
-    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
-  },
-  {
-    "id": 2,
     "title": "Bay Area Housing Market: Trends and Forecast 2026 - Norada Real Estate Investments",
     "summary": "Bay Area Housing Market: Trends and Forecast 2026 - Norada Real Estate Investments",
     "source": "Norada Real Estate Investments",
@@ -19,6 +8,17 @@
     "category": "Market News",
     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBaaUM4aERvWk43T0Y3SmxRTWZWWmdTRkJ4elRmbk9pNzVOdDRLOGpkWFphTnhnWG5LVm15MnN1azNFTnZSWTFVeWdxNGc2bl9vNklsblR3eE1Oazlrb29xSFJzU0F0cXE2OTY5N0FGZEUzMU14VXprU2F0cw?oc=5",
     "timestamp": "Fri, 22 May 2026 07:00:00 GMT",
+    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
+    "id": 2,
+    "title": "Silicon Valley buyers need $1M+ salaries for homes in priciest cities - San Jos\u00e9 Spotlight",
+    "summary": "Silicon Valley buyers need $1M+ salaries for homes in priciest cities - San Jos\u00e9 Spotlight",
+    "source": "San Jos\u00e9 Spotlight",
+    "trend": "neutral",
+    "category": "Silicon Valley",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOHdvWjhlRjhmZUdvbktnN2JnWVNXYlk0YTRkNERHVl9ubHNEU2VDYWg2SUpmcHpFelY5dVQzYS1aYnRjMjdPTlU4S25fN1J4LW5LdTZKdk96T1M0TWs2Q0t5RnRzU3Z4ZC0wT09WcmhvYlQwMjM5RlNlS1JlRTRwLUV4NkF4Qk9sTjVTNGNKeHlQNFk1Tmk1bjRKT3JaZw?oc=5",
+    "timestamp": "Wed, 06 May 2026 07:00:00 GMT",
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
@@ -100,13 +100,13 @@
   },
   {
     "id": 10,
-    "title": "Median home price surpasses $2 million in these two Bay Area counties - SiliconValley.com",
-    "summary": "Median home price surpasses $2 million in these two Bay Area counties - SiliconValley.com",
-    "source": "SiliconValley.com",
-    "trend": "neutral",
+    "title": "Bay Area home prices fall, marking largest annual price decline in California, figures show - KTVU",
+    "summary": "Bay Area home prices fall, marking largest annual price decline in California, figures show - KTVU",
+    "source": "KTVU",
+    "trend": "down",
     "category": "Market News",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZmlwUjFxMGd6S3RiMXpyOFJyMTZUNy1zZ1VyazlpMXp3bVZwWDZyRVJObzF3T3VaMUk4ZDJ4bkFRTFBPYVJSVVNfamxybHZFSTFqb1BDcUV4TG9LQVVVaEczNjh3bzdOeHRDUnRMSTJyRW1Jc0N0d1h0enl1LWpKczBtQWg1bjNTczFIYXVpZ2ZtOEcyNlo2djhZQ1dUTWltaWo2VDVjRGNCeGo5M25V0gG0AUFVX3lxTE5VQnZ2LTg5Q3prX29qN3dzNGNucnRtOEczS2VDQ21LWVBVcC1VVjZlQm1HS284cVZScXB4bU9XUVlTTDh4dHRRM0lrV0NKb2RfdDM0cEktaEZpcFMyUExwaS14aG5yX2QwTnlSTmVWUW1JVTVOcWFzQ2lDU0h1bUFheXVQV3ZFVHNpTDd6N0xMcHFJZ2pucXZTMEFKWmpob2NWUWJuSzlodkFGS0JfZ3cwU1BfQQ?oc=5",
-    "timestamp": "Thu, 30 May 2024 07:00:00 GMT",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWjI1MkhETk9HVEVhZWUxbGpLWDNrU3pUUXdfLXd4UG44WjREcE9wOEZ4dDBNLVYwbi0zLXl1NWFXaW4wa0ZObnJMYVNpbEhteTJMRWlrUmYtMzBvM2ZlWjR4UTk2YU5Lc2xkS3F3ZVQzVW9OaF9MaVJzR29vQ25SRE45YWc3d3hLaTU1X3JqVjR0aTF1MmM4X0RoSkI3UEhvR2E0VWlSc1MwRWN1YS1OWlln0gG3AUFVX3lxTFB4VHF1NGEwNnFVNkhSLUFiT3pPeWVfcFJuNXFnWWd5X1M4R0pnbmQweWloWU40QUkxTENBZmNoNkhzTUh3UERrYkQ0RFdpTFR1ZDVGa2c0Y0tvOWRONUVpU25iOWoxbzJJSnhuOGtsWW9zUGkteGx5THRqQWpxdTJmUTJPYjgxS3ZDY3ZzSkZvMDFabHJJOTZ3ZHN6LTFDV04xbGx2WG5SMVFnUWROWDdZM0Q4QWhETQ?oc=5",
+    "timestamp": "Tue, 16 Dec 2025 08:00:00 GMT",
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   }
 ]
