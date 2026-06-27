@@ -1,17 +1,6 @@
 [
   {
     "id": 1,
-    "title": "California\u2019s housing prices reach staggering new high as city drives sales through the roof - New York Post",
-    "summary": "California\u2019s housing prices reach staggering new high as city drives sales through the roof - New York Post",
-    "source": "New York Post",
-    "trend": "up",
-    "category": "Market News",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTTRCbGJjX1FpMW9QaHNnZ25zTWYwUWRQZVQ0T3lyVDhZUXF4ZTZQNjExQURPU3R0cDR4UE5wYnNfNmRlYlBhSThicTlFM2VyVElXcDVrYXZTUDZhWExBOFlvVVZMSW9ObVpGM1luUldRcnpkc1dWQkRKOEwxbThFRVhtNVdmZFppaTRXS2JQTVpYUXMtc0RURzI2MnByUlV6T3hRdW5wTndja0U?oc=5",
-    "timestamp": "Thu, 18 Jun 2026 15:30:00 GMT",
-    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
-  },
-  {
-    "id": 2,
     "title": "Bay Area Housing Market: Trends and Forecast 2026 - Norada Real Estate Investments",
     "summary": "Bay Area Housing Market: Trends and Forecast 2026 - Norada Real Estate Investments",
     "source": "Norada Real Estate Investments",
@@ -22,7 +11,29 @@
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
+    "id": 2,
+    "title": "California\u2019s housing prices reach staggering new high as city drives sales through the roof - New York Post",
+    "summary": "California\u2019s housing prices reach staggering new high as city drives sales through the roof - New York Post",
+    "source": "New York Post",
+    "trend": "up",
+    "category": "Market News",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTTRCbGJjX1FpMW9QaHNnZ25zTWYwUWRQZVQ0T3lyVDhZUXF4ZTZQNjExQURPU3R0cDR4UE5wYnNfNmRlYlBhSThicTlFM2VyVElXcDVrYXZTUDZhWExBOFlvVVZMSW9ObVpGM1luUldRcnpkc1dWQkRKOEwxbThFRVhtNVdmZFppaTRXS2JQTVpYUXMtc0RURzI2MnByUlV6T3hRdW5wTndja0U?oc=5",
+    "timestamp": "Thu, 18 Jun 2026 07:00:00 GMT",
+    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
     "id": 3,
+    "title": "\u2018From 25 mph to 100 mph\u2019: How the Bay Area housing market changed in 2025 - San Francisco Chronicle",
+    "summary": "\u2018From 25 mph to 100 mph\u2019: How the Bay Area housing market changed in 2025 - San Francisco Chronicle",
+    "source": "San Francisco Chronicle",
+    "trend": "neutral",
+    "category": "Market News",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUjVsYUxuUE5OYURfNkladE5oRWZHUTVHWFVLbzhKRm5zbmUtM1k0Vi0zVllzUi02SkNRc3B1T0EwQUhPYldOMm5iSzlaOVphRVVsSU1vdU9va3hsRDNNZkZEaW8tU2hSZmVpeW5nSkNKNDdQTmtHTmlFRGNMZUZCdDV1WUkyYjk5dGc?oc=5",
+    "timestamp": "Mon, 10 Nov 2025 08:00:00 GMT",
+    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
+    "id": 4,
     "title": "Bay Area home prices fall, marking largest annual price decline in California, figures show - KTVU",
     "summary": "Bay Area home prices fall, marking largest annual price decline in California, figures show - KTVU",
     "source": "KTVU",
@@ -33,7 +44,7 @@
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
-    "id": 4,
+    "id": 5,
     "title": "Silicon Valley buyers need $1M+ salaries for homes in priciest cities - San Jos\u00e9 Spotlight",
     "summary": "Silicon Valley buyers need $1M+ salaries for homes in priciest cities - San Jos\u00e9 Spotlight",
     "source": "San Jos\u00e9 Spotlight",
@@ -41,17 +52,6 @@
     "category": "Silicon Valley",
     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOHdvWjhlRjhmZUdvbktnN2JnWVNXYlk0YTRkNERHVl9ubHNEU2VDYWg2SUpmcHpFelY5dVQzYS1aYnRjMjdPTlU4S25fN1J4LW5LdTZKdk96T1M0TWs2Q0t5RnRzU3Z4ZC0wT09WcmhvYlQwMjM5RlNlS1JlRTRwLUV4NkF4Qk9sTjVTNGNKeHlQNFk1Tmk1bjRKT3JaZw?oc=5",
     "timestamp": "Wed, 06 May 2026 07:00:00 GMT",
-    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
-  },
-  {
-    "id": 5,
-    "title": "S.F. didn\u2019t make Zillow\u2019s list of hottest markets \u2014 but one part of the Bay Area did - San Francisco Chronicle",
-    "summary": "S.F. didn\u2019t make Zillow\u2019s list of hottest markets \u2014 but one part of the Bay Area did - San Francisco Chronicle",
-    "source": "San Francisco Chronicle",
-    "trend": "down",
-    "category": "Market News",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRmF1Wk94XzFIMFV5NGN0MFhtLUhtdC1pUWpJRG9IZ05sWkp1ZGVkV1Z0QkFfR3NLYms5b05PYW12VEwxNEx4MThkVlNYSUJlbVdmVmV2cUNtY0hSNG9FbEtQN09CVVJrQlNSakpERnlRa2hMTkxXNG1BR0ZHcU9GeUhBV3dWNDJocVIwRENrMjVEbmc?oc=5",
-    "timestamp": "Tue, 20 Jan 2026 08:00:00 GMT",
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
@@ -100,13 +100,13 @@
   },
   {
     "id": 10,
-    "title": "Star One Credit Union Ranks No. 1 in Silicon Valley for Residential Real Estate Loan Growth - Business Wire",
-    "summary": "Star One Credit Union Ranks No. 1 in Silicon Valley for Residential Real Estate Loan Growth - Business Wire",
-    "source": "Business Wire",
-    "trend": "neutral",
-    "category": "Silicon Valley",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQXlqWmJPTVJ3alRGUDdpcm9Xb0NRTzRIM1psZW95aHJkZU1BTWJwTWJNeVFuelNSbnRFenBvT3J2Nkh2a2VtSjdCMUFtNk00UWdoOVVzSl8weXpKT1IyYkFtSlYta2R4M3ZsNU5fU2FuTGx1YkxaWnFhN0phZU5yTzRhc1VFWlZZM1oxYW9lSEEtcmR2NUpfTU5MZDF6WWhlX2hMYm1uRVROTUdQcEVDZ1UwcTBWUXZvMDA3R0RPQjREQnk0Mnl5QnZKQ1pwUXJkVnFGQTVtRlV3SldrTE1tSEVR?oc=5",
-    "timestamp": "Mon, 18 May 2026 07:00:00 GMT",
+    "title": "S.F. didn\u2019t make Zillow\u2019s list of hottest markets \u2014 but one part of the Bay Area did - San Francisco Chronicle",
+    "summary": "S.F. didn\u2019t make Zillow\u2019s list of hottest markets \u2014 but one part of the Bay Area did - San Francisco Chronicle",
+    "source": "San Francisco Chronicle",
+    "trend": "down",
+    "category": "Market News",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRmF1Wk94XzFIMFV5NGN0MFhtLUhtdC1pUWpJRG9IZ05sWkp1ZGVkV1Z0QkFfR3NLYms5b05PYW12VEwxNEx4MThkVlNYSUJlbVdmVmV2cUNtY0hSNG9FbEtQN09CVVJrQlNSakpERnlRa2hMTkxXNG1BR0ZHcU9GeUhBV3dWNDJocVIwRENrMjVEbmc?oc=5",
+    "timestamp": "Tue, 20 Jan 2026 08:00:00 GMT",
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   }
 ]
