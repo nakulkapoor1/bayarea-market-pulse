@@ -12,17 +12,6 @@
   },
   {
     "id": 2,
-    "title": "Silicon Valley buyers need $1M+ salaries for homes in priciest cities - San Jos\u00e9 Spotlight",
-    "summary": "Silicon Valley buyers need $1M+ salaries for homes in priciest cities - San Jos\u00e9 Spotlight",
-    "source": "San Jos\u00e9 Spotlight",
-    "trend": "neutral",
-    "category": "Silicon Valley",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOHdvWjhlRjhmZUdvbktnN2JnWVNXYlk0YTRkNERHVl9ubHNEU2VDYWg2SUpmcHpFelY5dVQzYS1aYnRjMjdPTlU4S25fN1J4LW5LdTZKdk96T1M0TWs2Q0t5RnRzU3Z4ZC0wT09WcmhvYlQwMjM5RlNlS1JlRTRwLUV4NkF4Qk9sTjVTNGNKeHlQNFk1Tmk1bjRKT3JaZw?oc=5",
-    "timestamp": "Wed, 06 May 2026 07:00:00 GMT",
-    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
-  },
-  {
-    "id": 3,
     "title": "California\u2019s housing prices reach staggering new high as city drives sales through the roof - New York Post",
     "summary": "California\u2019s housing prices reach staggering new high as city drives sales through the roof - New York Post",
     "source": "New York Post",
@@ -33,18 +22,40 @@
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
-    "id": 4,
-    "title": "\u2018From 25 mph to 100 mph\u2019: How the Bay Area housing market changed in 2025 - San Francisco Chronicle",
-    "summary": "\u2018From 25 mph to 100 mph\u2019: How the Bay Area housing market changed in 2025 - San Francisco Chronicle",
-    "source": "San Francisco Chronicle",
+    "id": 3,
+    "title": "Silicon Valley buyers need $1M+ salaries for homes in priciest cities - San Jos\u00e9 Spotlight",
+    "summary": "Silicon Valley buyers need $1M+ salaries for homes in priciest cities - San Jos\u00e9 Spotlight",
+    "source": "San Jos\u00e9 Spotlight",
     "trend": "neutral",
+    "category": "Silicon Valley",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOHdvWjhlRjhmZUdvbktnN2JnWVNXYlk0YTRkNERHVl9ubHNEU2VDYWg2SUpmcHpFelY5dVQzYS1aYnRjMjdPTlU4S25fN1J4LW5LdTZKdk96T1M0TWs2Q0t5RnRzU3Z4ZC0wT09WcmhvYlQwMjM5RlNlS1JlRTRwLUV4NkF4Qk9sTjVTNGNKeHlQNFk1Tmk1bjRKT3JaZw?oc=5",
+    "timestamp": "Wed, 06 May 2026 07:00:00 GMT",
+    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
+    "id": 4,
+    "title": "S.F. didn\u2019t make Zillow\u2019s list of hottest markets \u2014 but one part of the Bay Area did - San Francisco Chronicle",
+    "summary": "S.F. didn\u2019t make Zillow\u2019s list of hottest markets \u2014 but one part of the Bay Area did - San Francisco Chronicle",
+    "source": "San Francisco Chronicle",
+    "trend": "down",
     "category": "Market News",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUjVsYUxuUE5OYURfNkladE5oRWZHUTVHWFVLbzhKRm5zbmUtM1k0Vi0zVllzUi02SkNRc3B1T0EwQUhPYldOMm5iSzlaOVphRVVsSU1vdU9va3hsRDNNZkZEaW8tU2hSZmVpeW5nSkNKNDdQTmtHTmlFRGNMZUZCdDV1WUkyYjk5dGc?oc=5",
-    "timestamp": "Mon, 10 Nov 2025 08:00:00 GMT",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRmF1Wk94XzFIMFV5NGN0MFhtLUhtdC1pUWpJRG9IZ05sWkp1ZGVkV1Z0QkFfR3NLYms5b05PYW12VEwxNEx4MThkVlNYSUJlbVdmVmV2cUNtY0hSNG9FbEtQN09CVVJrQlNSakpERnlRa2hMTkxXNG1BR0ZHcU9GeUhBV3dWNDJocVIwRENrMjVEbmc?oc=5",
+    "timestamp": "Tue, 20 Jan 2026 08:00:00 GMT",
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
     "id": 5,
+    "title": "Bay Area home prices fall, marking largest annual price decline in California, figures show - KTVU",
+    "summary": "Bay Area home prices fall, marking largest annual price decline in California, figures show - KTVU",
+    "source": "KTVU",
+    "trend": "down",
+    "category": "Market News",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWjI1MkhETk9HVEVhZWUxbGpLWDNrU3pUUXdfLXd4UG44WjREcE9wOEZ4dDBNLVYwbi0zLXl1NWFXaW4wa0ZObnJMYVNpbEhteTJMRWlrUmYtMzBvM2ZlWjR4UTk2YU5Lc2xkS3F3ZVQzVW9OaF9MaVJzR29vQ25SRE45YWc3d3hLaTU1X3JqVjR0aTF1MmM4X0RoSkI3UEhvR2E0VWlSc1MwRWN1YS1OWlln0gG3AUFVX3lxTFB4VHF1NGEwNnFVNkhSLUFiT3pPeWVfcFJuNXFnWWd5X1M4R0pnbmQweWloWU40QUkxTENBZmNoNkhzTUh3UERrYkQ0RFdpTFR1ZDVGa2c0Y0tvOWRONUVpU25iOWoxbzJJSnhuOGtsWW9zUGkteGx5THRqQWpxdTJmUTJPYjgxS3ZDY3ZzSkZvMDFabHJJOTZ3ZHN6LTFDV04xbGx2WG5SMVFnUWROWDdZM0Q4QWhETQ?oc=5",
+    "timestamp": "Tue, 16 Dec 2025 08:00:00 GMT",
+    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
+    "id": 6,
     "title": "More homes, lower prices, slower sales in SF - San Francisco Examiner",
     "summary": "More homes, lower prices, slower sales in SF - San Francisco Examiner",
     "source": "San Francisco Examiner",
@@ -55,7 +66,7 @@
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
-    "id": 6,
+    "id": 7,
     "title": "Bay Area median home price down but remains above $1 million, realtors say - CBS News",
     "summary": "Bay Area median home price down but remains above $1 million, realtors say - CBS News",
     "source": "CBS News",
@@ -66,7 +77,7 @@
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
-    "id": 7,
+    "id": 8,
     "title": "Luxury home sales reach highest October sales ever across the Bay Area - San Francisco Business Times - The Business Journals",
     "summary": "Luxury home sales reach highest October sales ever across the Bay Area - San Francisco Business Times - The Business Journals",
     "source": "The Business Journals",
@@ -77,7 +88,7 @@
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
-    "id": 8,
+    "id": 9,
     "title": "Bay Area home sales dropped in July, but so far prices haven\u2019t followed - The Mercury News",
     "summary": "Bay Area home sales dropped in July, but so far prices haven\u2019t followed - The Mercury News",
     "source": "The Mercury News",
@@ -88,7 +99,7 @@
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
-    "id": 9,
+    "id": 10,
     "title": "Bay Area Housing Market Forecast for the Next 2 Years: 2026-2027 - Norada Real Estate Investments",
     "summary": "Bay Area Housing Market Forecast for the Next 2 Years: 2026-2027 - Norada Real Estate Investments",
     "source": "Norada Real Estate Investments",
@@ -96,17 +107,6 @@
     "category": "Market News",
     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZzE1RndyYnMzX09uRzh4ajUxSUdtY0RSdXpZUmN1YVFxcVN2cTFvRUZNMG95UkthZ3BvcE5EazJpaFVjdldfbU9fQjBsODRYbmF0RU10d3JlSFlYbDF2QWczTmFlY1FUWDIyWlY1Z1hhYzBscFI0R3R2VEVyb2otRlZHaDZTZGZDUVdsV3V2WjRkbU8zbWc?oc=5",
     "timestamp": "Wed, 24 Jun 2026 07:00:00 GMT",
-    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
-  },
-  {
-    "id": 10,
-    "title": "S.F. didn\u2019t make Zillow\u2019s list of hottest markets \u2014 but one part of the Bay Area did - San Francisco Chronicle",
-    "summary": "S.F. didn\u2019t make Zillow\u2019s list of hottest markets \u2014 but one part of the Bay Area did - San Francisco Chronicle",
-    "source": "San Francisco Chronicle",
-    "trend": "down",
-    "category": "Market News",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRmF1Wk94XzFIMFV5NGN0MFhtLUhtdC1pUWpJRG9IZ05sWkp1ZGVkV1Z0QkFfR3NLYms5b05PYW12VEwxNEx4MThkVlNYSUJlbVdmVmV2cUNtY0hSNG9FbEtQN09CVVJrQlNSakpERnlRa2hMTkxXNG1BR0ZHcU9GeUhBV3dWNDJocVIwRENrMjVEbmc?oc=5",
-    "timestamp": "Tue, 20 Jan 2026 08:00:00 GMT",
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   }
 ]
