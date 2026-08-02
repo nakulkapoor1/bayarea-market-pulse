@@ -1,20 +1,9 @@
 [
   {
     "id": 1,
-    "title": "\u2018Crazier and crazier\u2019: How the Bay Area housing market has shifted this year - San Francisco Chronicle",
-    "summary": "\u2018Crazier and crazier\u2019: How the Bay Area housing market has shifted this year - San Francisco Chronicle",
-    "source": "San Francisco Chronicle",
-    "trend": "neutral",
-    "category": "Market News",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLW9GdVJqNFgzVncwbVJxZlVtR0lrNmxkWlZzX1cyNmRXMlNyMHItZHlGTV94VUtvdXpwX2hYZl91djlCbkdyVThpbHZ5d00xaFRJakNVay12UjR5aGxENmxXVjBaN2RJLWpsY1NFQVVRLWtMTFRhUFRMYkpqamxzaHl6N1EwYXdpUWM2LUFFWlZ6ZzFERGh4RA?oc=5",
-    "timestamp": "Sun, 19 Jul 2026 07:00:00 GMT",
-    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
-  },
-  {
-    "id": 2,
-    "title": "Bay Area Housing Market: Trends and Forecast 2026 - Norada Real Estate Investments",
-    "summary": "Bay Area Housing Market: Trends and Forecast 2026 - Norada Real Estate Investments",
-    "source": "Norada Real Estate Investments",
+    "title": "Bay Area Housing Market: Trends and Forecast 2026 - noradarealestate.com",
+    "summary": "Bay Area Housing Market: Trends and Forecast 2026 - noradarealestate.com",
+    "source": "noradarealestate.com",
     "trend": "neutral",
     "category": "Market News",
     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBaaUM4aERvWk43T0Y3SmxRTWZWWmdTRkJ4elRmbk9pNzVOdDRLOGpkWFphTnhnWG5LVm15MnN1azNFTnZSWTFVeWdxNGc2bl9vNklsblR3eE1Oazlrb29xSFJzU0F0cXE2OTY5N0FGZEUzMU14VXprU2F0cw?oc=5",
@@ -22,7 +11,7 @@
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
-    "id": 3,
+    "id": 2,
     "title": "California\u2019s housing prices reach staggering new high as city drives sales through the roof - New York Post",
     "summary": "California\u2019s housing prices reach staggering new high as city drives sales through the roof - New York Post",
     "source": "New York Post",
@@ -30,6 +19,17 @@
     "category": "Market News",
     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTTRCbGJjX1FpMW9QaHNnZ25zTWYwUWRQZVQ0T3lyVDhZUXF4ZTZQNjExQURPU3R0cDR4UE5wYnNfNmRlYlBhSThicTlFM2VyVElXcDVrYXZTUDZhWExBOFlvVVZMSW9ObVpGM1luUldRcnpkc1dWQkRKOEwxbThFRVhtNVdmZFppaTRXS2JQTVpYUXMtc0RURzI2MnByUlV6T3hRdW5wTndja0U?oc=5",
     "timestamp": "Thu, 18 Jun 2026 07:00:00 GMT",
+    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
+    "id": 3,
+    "title": "\u2018From 25 mph to 100 mph\u2019: How the Bay Area housing market changed in 2025 - San Francisco Chronicle",
+    "summary": "\u2018From 25 mph to 100 mph\u2019: How the Bay Area housing market changed in 2025 - San Francisco Chronicle",
+    "source": "San Francisco Chronicle",
+    "trend": "neutral",
+    "category": "Market News",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUjVsYUxuUE5OYURfNkladE5oRWZHUTVHWFVLbzhKRm5zbmUtM1k0Vi0zVllzUi02SkNRc3B1T0EwQUhPYldOMm5iSzlaOVphRVVsSU1vdU9va3hsRDNNZkZEaW8tU2hSZmVpeW5nSkNKNDdQTmtHTmlFRGNMZUZCdDV1WUkyYjk5dGc?oc=5",
+    "timestamp": "Mon, 10 Nov 2025 08:00:00 GMT",
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
@@ -89,9 +89,9 @@
   },
   {
     "id": 9,
-    "title": "Bay Area Housing Market Forecast for the Next 2 Years: 2026-2027 - Norada Real Estate Investments",
-    "summary": "Bay Area Housing Market Forecast for the Next 2 Years: 2026-2027 - Norada Real Estate Investments",
-    "source": "Norada Real Estate Investments",
+    "title": "Bay Area Housing Market Forecast for the Next 2 Years: 2026-2027 - noradarealestate.com",
+    "summary": "Bay Area Housing Market Forecast for the Next 2 Years: 2026-2027 - noradarealestate.com",
+    "source": "noradarealestate.com",
     "trend": "neutral",
     "category": "Market News",
     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZzE1RndyYnMzX09uRzh4ajUxSUdtY0RSdXpZUmN1YVFxcVN2cTFvRUZNMG95UkthZ3BvcE5EazJpaFVjdldfbU9fQjBsODRYbmF0RU10d3JlSFlYbDF2QWczTmFlY1FUWDIyWlY1Z1hhYzBscFI0R3R2VEVyb2otRlZHaDZTZGZDUVdsV3V2WjRkbU8zbWc?oc=5",
