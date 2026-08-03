@@ -1,9 +1,9 @@
 [
   {
     "id": 1,
-    "title": "Bay Area Housing Market: Trends and Forecast 2026 - noradarealestate.com",
-    "summary": "Bay Area Housing Market: Trends and Forecast 2026 - noradarealestate.com",
-    "source": "noradarealestate.com",
+    "title": "Bay Area Housing Market: Trends and Forecast 2026 - Norada Real Estate Investments",
+    "summary": "Bay Area Housing Market: Trends and Forecast 2026 - Norada Real Estate Investments",
+    "source": "Norada Real Estate Investments",
     "trend": "neutral",
     "category": "Market News",
     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBaaUM4aERvWk43T0Y3SmxRTWZWWmdTRkJ4elRmbk9pNzVOdDRLOGpkWFphTnhnWG5LVm15MnN1azNFTnZSWTFVeWdxNGc2bl9vNklsblR3eE1Oazlrb29xSFJzU0F0cXE2OTY5N0FGZEUzMU14VXprU2F0cw?oc=5",
@@ -12,9 +12,9 @@
   },
   {
     "id": 2,
-    "title": "California\u2019s housing prices reach staggering new high as city drives sales through the roof - New York Post",
-    "summary": "California\u2019s housing prices reach staggering new high as city drives sales through the roof - New York Post",
-    "source": "New York Post",
+    "title": "California\u2019s housing prices reach staggering new high as city drives sales through the roof - nypost.com",
+    "summary": "California\u2019s housing prices reach staggering new high as city drives sales through the roof - nypost.com",
+    "source": "nypost.com",
     "trend": "up",
     "category": "Market News",
     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTTRCbGJjX1FpMW9QaHNnZ25zTWYwUWRQZVQ0T3lyVDhZUXF4ZTZQNjExQURPU3R0cDR4UE5wYnNfNmRlYlBhSThicTlFM2VyVElXcDVrYXZTUDZhWExBOFlvVVZMSW9ObVpGM1luUldRcnpkc1dWQkRKOEwxbThFRVhtNVdmZFppaTRXS2JQTVpYUXMtc0RURzI2MnByUlV6T3hRdW5wTndja0U?oc=5",
@@ -45,17 +45,6 @@
   },
   {
     "id": 5,
-    "title": "More homes, lower prices, slower sales in SF - San Francisco Examiner",
-    "summary": "More homes, lower prices, slower sales in SF - San Francisco Examiner",
-    "source": "San Francisco Examiner",
-    "trend": "down",
-    "category": "Market News",
-    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeU1vOXNZQ09kT1BFb0hHRkF3NnBtdXpBaW53S2o4YVVpTmptWkRMVzdHNWxfdXhmX0lpYnluNFpvak1BYnZNaFBBR2Q5M3I5NG00V2pTVVFURmRRMW1FSFpXbTcwb3lHTmFLRDRuRkJnR2x6N1dwdjRmZE1IR0pyN1lxekxoaWp5Q0s0LWFwbU82NVNKdXNsSHpib3hhRmxRbWFIUWdnR1BRdS1GWENackVDeFlUTUpiWldKSE9kV2Y0clFwcHNmQVFEVFBhSElfN1pPUkE2WXUyVVNPSGs1NjN5NGlLNEhXTkJyWkZ0RDI?oc=5",
-    "timestamp": "Mon, 06 Oct 2025 07:00:00 GMT",
-    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
-  },
-  {
-    "id": 6,
     "title": "Bay Area median home price down but remains above $1 million, realtors say - CBS News",
     "summary": "Bay Area median home price down but remains above $1 million, realtors say - CBS News",
     "source": "CBS News",
@@ -63,6 +52,17 @@
     "category": "Market News",
     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM3VyWFhVRy1GMTc2RHo2VjZVck9MWnp1ckdQbmNPWWNvRVlqbGhYUkdqckxidk9qV0lGQVRIQUExUXpZNGE5cW5yanUxSnBxRTRPRlYzUzZ4aGVmM2tBTk5QbUxrSDFHZEJ2TzljN281TEN6T1RGZFpFUUxYU09IUkl1cEhjaGVKdXdnX0tFVnRwZ0lqcGJBUUp2NHgxZi1PTWxkQ2dRQTVBQWljMDF6eVE1bzFPb1HSAbwBQVVfeXFMT01FWExadVBtcU9PVm03NktFN2Rkb3QtdmNtZG1POG56ZDlXb2UtOXR4cnRRTTlLX1M5Zzh2LWxCU2ZENjNEWWZSdDdHWU85NElZVzFoYURCTEh5WjQ1Z1lCdnFmcVlpTEFQNlVRWld2WjM5RE1pZ2VMcTBlbE5LRHpuUkZTZ2lqR2k0RkkxTXp3TTVnQWMzQzlqdjA5aUpSYjBMQjNYNmNSbm5pa0NLb3RfSUl3OF8zTXFJdEs?oc=5",
     "timestamp": "Wed, 17 Dec 2025 08:00:00 GMT",
+    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
+    "id": 6,
+    "title": "More homes, lower prices, slower sales in SF - San Francisco Examiner",
+    "summary": "More homes, lower prices, slower sales in SF - San Francisco Examiner",
+    "source": "San Francisco Examiner",
+    "trend": "down",
+    "category": "Market News",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeU1vOXNZQ09kT1BFb0hHRkF3NnBtdXpBaW53S2o4YVVpTmptWkRMVzdHNWxfdXhmX0lpYnluNFpvak1BYnZNaFBBR2Q5M3I5NG00V2pTVVFURmRRMW1FSFpXbTcwb3lHTmFLRDRuRkJnR2x6N1dwdjRmZE1IR0pyN1lxekxoaWp5Q0s0LWFwbU82NVNKdXNsSHpib3hhRmxRbWFIUWdnR1BRdS1GWENackVDeFlUTUpiWldKSE9kV2Y0clFwcHNmQVFEVFBhSElfN1pPUkE2WXUyVVNPSGs1NjN5NGlLNEhXTkJyWkZ0RDI?oc=5",
+    "timestamp": "Mon, 06 Oct 2025 07:00:00 GMT",
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
@@ -89,9 +89,9 @@
   },
   {
     "id": 9,
-    "title": "Bay Area Housing Market Forecast for the Next 2 Years: 2026-2027 - noradarealestate.com",
-    "summary": "Bay Area Housing Market Forecast for the Next 2 Years: 2026-2027 - noradarealestate.com",
-    "source": "noradarealestate.com",
+    "title": "Bay Area Housing Market Forecast for the Next 2 Years: 2026-2027 - Norada Real Estate Investments",
+    "summary": "Bay Area Housing Market Forecast for the Next 2 Years: 2026-2027 - Norada Real Estate Investments",
+    "source": "Norada Real Estate Investments",
     "trend": "neutral",
     "category": "Market News",
     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZzE1RndyYnMzX09uRzh4ajUxSUdtY0RSdXpZUmN1YVFxcVN2cTFvRUZNMG95UkthZ3BvcE5EazJpaFVjdldfbU9fQjBsODRYbmF0RU10d3JlSFlYbDF2QWczTmFlY1FUWDIyWlY1Z1hhYzBscFI0R3R2VEVyb2otRlZHaDZTZGZDUVdsV3V2WjRkbU8zbWc?oc=5",
@@ -100,9 +100,9 @@
   },
   {
     "id": 10,
-    "title": "Home Listings Across Much of the Bay Area Go Stale - The Real Deal",
-    "summary": "Home Listings Across Much of the Bay Area Go Stale - The Real Deal",
-    "source": "The Real Deal",
+    "title": "Home Listings Across Much of the Bay Area Go Stale - therealdeal.com",
+    "summary": "Home Listings Across Much of the Bay Area Go Stale - therealdeal.com",
+    "source": "therealdeal.com",
     "trend": "neutral",
     "category": "Market News",
     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOE1MVXZaWW5jY1FCektvZXZDMU56Nlp5YngzaUhwaHNrcXZOaVM2WHNkQTJ3d0JEdk1YcV84OVFoaGpFbDZPaTJvNEhlb1JhbEJsOHdJNGFoYUZITHdFU2pwcTlhZTFXY3R5Wm5DaEZfRWJueEdJVFAwdDA5ZnRFRXRxU2hyTnd3RnNldS1SUmsxVEZsLUFsNnE2ak5hLXJ2Tmc?oc=5",
