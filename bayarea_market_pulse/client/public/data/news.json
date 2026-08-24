@@ -78,17 +78,6 @@
   },
   {
     "id": 8,
-    "title": "Bay Area home sales dropped in July, but so far prices haven\u2019t followed - The Mercury News",
-    "summary": "Bay Area home sales dropped in July, but so far prices haven\u2019t followed - The Mercury News",
-    "source": "The Mercury News",
-    "trend": "down",
-    "category": "Market News",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YY3FVUklOOEVlQUFvTTRibGhGUUJvU1NUUmZrTjR0SnhsMVJJMDVpWHMzMlNXMzZNbm9GcVdnTi0yY3hjeW94SjZpc3NNZkRjZmxMUE9LVVN2T3p1eEt6RUxjbG1GQkd2RWJ1TzFoRHVHU1NQRDZMVdIBfkFVX3lxTE82UjM2UHh0ajRLM0duMGdydXFrWGNncHM3LVByMl9SaGExX2lNQnljOUFTdGg1SXp2RmI3am96TWNpTWh6d2pHUjdtX0VFczNNVC1XQl9YWmgwTVhzRDNJQWRWT1hoODFGUEZCRE5FVmFaOFhqdWFDMm1XNkRhUQ?oc=5",
-    "timestamp": "Wed, 27 Aug 2025 07:00:00 GMT",
-    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
-  },
-  {
-    "id": 9,
     "title": "Median home price surpasses $2 million in these two Bay Area counties - SiliconValley.com",
     "summary": "Median home price surpasses $2 million in these two Bay Area counties - SiliconValley.com",
     "source": "SiliconValley.com",
@@ -99,7 +88,7 @@
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
-    "id": 10,
+    "id": 9,
     "title": "Home Listings Across Much of the Bay Area Go Stale - The Real Deal",
     "summary": "Home Listings Across Much of the Bay Area Go Stale - The Real Deal",
     "source": "The Real Deal",
@@ -107,6 +96,17 @@
     "category": "Market News",
     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOE1MVXZaWW5jY1FCektvZXZDMU56Nlp5YngzaUhwaHNrcXZOaVM2WHNkQTJ3d0JEdk1YcV84OVFoaGpFbDZPaTJvNEhlb1JhbEJsOHdJNGFoYUZITHdFU2pwcTlhZTFXY3R5Wm5DaEZfRWJueEdJVFAwdDA5ZnRFRXRxU2hyTnd3RnNldS1SUmsxVEZsLUFsNnE2ak5hLXJ2Tmc?oc=5",
     "timestamp": "Tue, 06 Aug 2024 07:00:00 GMT",
+    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
+    "id": 10,
+    "title": "Bay Area home sales dropped in July, but so far prices haven\u2019t followed - The Mercury News",
+    "summary": "Bay Area home sales dropped in July, but so far prices haven\u2019t followed - The Mercury News",
+    "source": "The Mercury News",
+    "trend": "down",
+    "category": "Market News",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YY3FVUklOOEVlQUFvTTRibGhGUUJvU1NUUmZrTjR0SnhsMVJJMDVpWHMzMlNXMzZNbm9GcVdnTi0yY3hjeW94SjZpc3NNZkRjZmxMUE9LVVN2T3p1eEt6RUxjbG1GQkd2RWJ1TzFoRHVHU1NQRDZMVdIBfkFVX3lxTE82UjM2UHh0ajRLM0duMGdydXFrWGNncHM3LVByMl9SaGExX2lNQnljOUFTdGg1SXp2RmI3am96TWNpTWh6d2pHUjdtX0VFczNNVC1XQl9YWmgwTVhzRDNJQWRWT1hoODFGUEZCRE5FVmFaOFhqdWFDMm1XNkRhUQ?oc=5",
+    "timestamp": "Wed, 27 Aug 2025 07:00:00 GMT",
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   }
 ]
