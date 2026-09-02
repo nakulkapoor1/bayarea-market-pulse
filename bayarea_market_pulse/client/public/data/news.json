@@ -1,17 +1,6 @@
 [
   {
     "id": 1,
-    "title": "Bay Area Housing Market: Trends and Forecast 2026 - noradarealestate.com",
-    "summary": "Bay Area Housing Market: Trends and Forecast 2026 - noradarealestate.com",
-    "source": "noradarealestate.com",
-    "trend": "neutral",
-    "category": "Market News",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBaaUM4aERvWk43T0Y3SmxRTWZWWmdTRkJ4elRmbk9pNzVOdDRLOGpkWFphTnhnWG5LVm15MnN1azNFTnZSWTFVeWdxNGc2bl9vNklsblR3eE1Oazlrb29xSFJzU0F0cXE2OTY5N0FGZEUzMU14VXprU2F0cw?oc=5",
-    "timestamp": "Sun, 19 Jul 2026 07:00:00 GMT",
-    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
-  },
-  {
-    "id": 2,
     "title": "California\u2019s housing prices reach staggering new high as city drives sales through the roof - New York Post",
     "summary": "California\u2019s housing prices reach staggering new high as city drives sales through the roof - New York Post",
     "source": "New York Post",
@@ -19,6 +8,17 @@
     "category": "Market News",
     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTTRCbGJjX1FpMW9QaHNnZ25zTWYwUWRQZVQ0T3lyVDhZUXF4ZTZQNjExQURPU3R0cDR4UE5wYnNfNmRlYlBhSThicTlFM2VyVElXcDVrYXZTUDZhWExBOFlvVVZMSW9ObVpGM1luUldRcnpkc1dWQkRKOEwxbThFRVhtNVdmZFppaTRXS2JQTVpYUXMtc0RURzI2MnByUlV6T3hRdW5wTndja0U?oc=5",
     "timestamp": "Thu, 18 Jun 2026 07:00:00 GMT",
+    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
+    "id": 2,
+    "title": "Silicon Valley buyers need $1M+ salaries for homes in priciest cities - San Jos\u00e9 Spotlight",
+    "summary": "Silicon Valley buyers need $1M+ salaries for homes in priciest cities - San Jos\u00e9 Spotlight",
+    "source": "San Jos\u00e9 Spotlight",
+    "trend": "neutral",
+    "category": "Silicon Valley",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOHdvWjhlRjhmZUdvbktnN2JnWVNXYlk0YTRkNERHVl9ubHNEU2VDYWg2SUpmcHpFelY5dVQzYS1aYnRjMjdPTlU4S25fN1J4LW5LdTZKdk96T1M0TWs2Q0t5RnRzU3Z4ZC0wT09WcmhvYlQwMjM5RlNlS1JlRTRwLUV4NkF4Qk9sTjVTNGNKeHlQNFk1Tmk1bjRKT3JaZw?oc=5",
+    "timestamp": "Wed, 06 May 2026 07:00:00 GMT",
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
@@ -34,24 +34,24 @@
   },
   {
     "id": 4,
-    "title": "Bay Area median home price down but remains above $1 million, realtors say - cbsnews.com",
-    "summary": "Bay Area median home price down but remains above $1 million, realtors say - cbsnews.com",
-    "source": "cbsnews.com",
-    "trend": "down",
+    "title": "Bay Area Housing Market Forecast for the Next 2 Years: 2026-2027 - Norada Real Estate Investments",
+    "summary": "Bay Area Housing Market Forecast for the Next 2 Years: 2026-2027 - Norada Real Estate Investments",
+    "source": "Norada Real Estate Investments",
+    "trend": "neutral",
     "category": "Market News",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM3VyWFhVRy1GMTc2RHo2VjZVck9MWnp1ckdQbmNPWWNvRVlqbGhYUkdqckxidk9qV0lGQVRIQUExUXpZNGE5cW5yanUxSnBxRTRPRlYzUzZ4aGVmM2tBTk5QbUxrSDFHZEJ2TzljN281TEN6T1RGZFpFUUxYU09IUkl1cEhjaGVKdXdnX0tFVnRwZ0lqcGJBUUp2NHgxZi1PTWxkQ2dRQTVBQWljMDF6eVE1bzFPb1HSAbwBQVVfeXFMT01FWExadVBtcU9PVm03NktFN2Rkb3QtdmNtZG1POG56ZDlXb2UtOXR4cnRRTTlLX1M5Zzh2LWxCU2ZENjNEWWZSdDdHWU85NElZVzFoYURCTEh5WjQ1Z1lCdnFmcVlpTEFQNlVRWld2WjM5RE1pZ2VMcTBlbE5LRHpuUkZTZ2lqR2k0RkkxTXp3TTVnQWMzQzlqdjA5aUpSYjBMQjNYNmNSbm5pa0NLb3RfSUl3OF8zTXFJdEs?oc=5",
-    "timestamp": "Wed, 17 Dec 2025 08:00:00 GMT",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZzE1RndyYnMzX09uRzh4ajUxSUdtY0RSdXpZUmN1YVFxcVN2cTFvRUZNMG95UkthZ3BvcE5EazJpaFVjdldfbU9fQjBsODRYbmF0RU10d3JlSFlYbDF2QWczTmFlY1FUWDIyWlY1Z1hhYzBscFI0R3R2VEVyb2otRlZHaDZTZGZDUVdsV3V2WjRkbU8zbWc?oc=5",
+    "timestamp": "Wed, 24 Jun 2026 07:00:00 GMT",
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
     "id": 5,
-    "title": "More homes, lower prices, slower sales in SF - San Francisco Examiner",
-    "summary": "More homes, lower prices, slower sales in SF - San Francisco Examiner",
-    "source": "San Francisco Examiner",
+    "title": "Bay Area median home price down but remains above $1 million, realtors say - CBS News",
+    "summary": "Bay Area median home price down but remains above $1 million, realtors say - CBS News",
+    "source": "CBS News",
     "trend": "down",
     "category": "Market News",
-    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeU1vOXNZQ09kT1BFb0hHRkF3NnBtdXpBaW53S2o4YVVpTmptWkRMVzdHNWxfdXhmX0lpYnluNFpvak1BYnZNaFBBR2Q5M3I5NG00V2pTVVFURmRRMW1FSFpXbTcwb3lHTmFLRDRuRkJnR2x6N1dwdjRmZE1IR0pyN1lxekxoaWp5Q0s0LWFwbU82NVNKdXNsSHpib3hhRmxRbWFIUWdnR1BRdS1GWENackVDeFlUTUpiWldKSE9kV2Y0clFwcHNmQVFEVFBhSElfN1pPUkE2WXUyVVNPSGs1NjN5NGlLNEhXTkJyWkZ0RDI?oc=5",
-    "timestamp": "Mon, 06 Oct 2025 07:00:00 GMT",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM3VyWFhVRy1GMTc2RHo2VjZVck9MWnp1ckdQbmNPWWNvRVlqbGhYUkdqckxidk9qV0lGQVRIQUExUXpZNGE5cW5yanUxSnBxRTRPRlYzUzZ4aGVmM2tBTk5QbUxrSDFHZEJ2TzljN281TEN6T1RGZFpFUUxYU09IUkl1cEhjaGVKdXdnX0tFVnRwZ0lqcGJBUUp2NHgxZi1PTWxkQ2dRQTVBQWljMDF6eVE1bzFPb1HSAbwBQVVfeXFMT01FWExadVBtcU9PVm03NktFN2Rkb3QtdmNtZG1POG56ZDlXb2UtOXR4cnRRTTlLX1M5Zzh2LWxCU2ZENjNEWWZSdDdHWU85NElZVzFoYURCTEh5WjQ1Z1lCdnFmcVlpTEFQNlVRWld2WjM5RE1pZ2VMcTBlbE5LRHpuUkZTZ2lqR2k0RkkxTXp3TTVnQWMzQzlqdjA5aUpSYjBMQjNYNmNSbm5pa0NLb3RfSUl3OF8zTXFJdEs?oc=5",
+    "timestamp": "Wed, 17 Dec 2025 08:00:00 GMT",
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
@@ -78,9 +78,9 @@
   },
   {
     "id": 8,
-    "title": "Bay Area home prices up 6% from last year as wealthy buyers dominate housing market - mercurynews.com",
-    "summary": "Bay Area home prices up 6% from last year as wealthy buyers dominate housing market - mercurynews.com",
-    "source": "mercurynews.com",
+    "title": "Bay Area home prices up 6% from last year as wealthy buyers dominate housing market - The Mercury News",
+    "summary": "Bay Area home prices up 6% from last year as wealthy buyers dominate housing market - The Mercury News",
+    "source": "The Mercury News",
     "trend": "up",
     "category": "Market News",
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMEN2d0lhRElBNmlZOFRNZk5sUmQ0c0R1SXhXcWxqdk9XNlk3cDk2U0dvdlp2cDdteEZEYWpVMHdzZ0kzR2dMa0Vudk9sOFFyVzJuSE1rdlFxR0dMc3A4ZjJMZXdmZV9hcFZMLW0tQkdpNU5JdmhFS3NJdlV5ZXlOYVl5RGNrRkFmVEhDbU5ncHpiUFJFaUhYc05LcDJLTnRfcVZUdUY2alBucFQyUkFnVUpTZ2VoMVk4SHphTkVWY9IBxAFBVV95cUxOdTEzMU9SVlpELVBPbExfY3hVRmstR2RlUl8wdVBEaXBQNjBOQ05DOVZlREpYbzBxanQ4blN4X2dvWEM5SnNXTDdJX0tVS0I5R2ZtMC1yc3RSV3ZpRW9kSy12YWlPNUZhZUthNWhScjhoY0xQMW5sNzcxS1JJaHZsQkVZRnJtcWdseEFaenpzRzdadnBETmZvYWdwNUI4Nks1WlFUVnRLOEg3ckdXNXVlT2VGYkRST1l6bkFTNzRUNWdIeDds?oc=5",
@@ -89,6 +89,17 @@
   },
   {
     "id": 9,
+    "title": "Bay Area sales help set new record for California median home prices - NBC Bay Area",
+    "summary": "Bay Area sales help set new record for California median home prices - NBC Bay Area",
+    "source": "NBC Bay Area",
+    "trend": "neutral",
+    "category": "Market News",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX00yZkluS01kUWNFcktXNDBqY29nMWpWUHdmblFydC1BYU9kMmlWbnhCZVI5UWg4TW1mV2M1SzJjc0FNQnlBZGdycHA5VjZvN3N5V3AxUEVob2liUHJXbEoyM3d1Ql8xdU9BSS1QMWx6aERONkduWFFUX2VxVmgxZNIBiAFBVV95cUxPclBIQzFkOVAyall2TkFhOVp4bUpTQzBOcW5NWHdsWGExelpxeERFdmJudzlLbFlORE5FTzBTQVFfWXBJZ0JmTUppcFlIWEZBMUtlWUpVWlktNEhCd1l0TmVlMERSa0tobEdIZHJBYUNFc29xZFRyM1VoVm9Na180WWg5REQ4R194?oc=5",
+    "timestamp": "Wed, 17 Jun 2026 07:00:00 GMT",
+    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
+    "id": 10,
     "title": "Bay Area home prices go up again, but experts say a cooldown is coming - SiliconValley.com",
     "summary": "Bay Area home prices go up again, but experts say a cooldown is coming - SiliconValley.com",
     "source": "SiliconValley.com",
@@ -96,17 +107,6 @@
     "category": "Market News",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRzlSYjdGb3RORHdpNHVDRjZLWURqUmJuRldVdlE4RHViemw5c1ZxQ3k2Zl9DMDg0aDA2NHFjbndqQTluOG5weHNEYlI0Wl9DTnRERUFsamJfVXVJeGVPSWhyWU83a3htSjFNNkkxMElqY1djd0M2N1RNUmsyemh2R2VDNnBYYTFPNnBCVjVEZ1BicUdPQmlNMHNHNHNuLThPd2RlSDVfTURxaDc30gGyAUFVX3lxTE9LQXVDMElFVlBNM3VBU09iSDc4QUwwblFIVjRWSWMtTUN6Vm1qMUljN1J3NEVuZG1VNTctUjJHSUhuTHo5QXUyNVV6TXpaelpmT1RLVjkxTHgwMTRKdmZKMEZlRFFjUmhVNUhLcWJpT05oOTNEYjY2UjRxb2syUGFkNmhzTVJ3ZF8yTkF3QlBNNnBlVllOSUQ5VTdkRVZGZFBKOHhtMVlXaVdaOGFMMUV0QWc?oc=5",
     "timestamp": "Mon, 06 Jun 2022 07:00:00 GMT",
-    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
-  },
-  {
-    "id": 10,
-    "title": "\u2018Affordability ceiling\u2019: Bay Area real estate market sluggish - Marin Independent Journal",
-    "summary": "\u2018Affordability ceiling\u2019: Bay Area real estate market sluggish - Marin Independent Journal",
-    "source": "Marin Independent Journal",
-    "trend": "neutral",
-    "category": "Market News",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUUp1Z0kwaVRWbXVSWFllaEI5U01IcUh0d1c0U2Y0QXdzbVM1WnJqVTFxVHBpMlNhbGUyNnFGbGRzR3pLeXRpWE85akZPWWtxV1J2c1ZOZjBBWU1HRng4S2FFRVZ1UkVEMUU4MzNNV2tLRFhnM3N2WE9pT2hlc09nenFHc9IBiAFBVV95cUxQMkRYcmFjbjI1MlRJbTVMSUJfaFRUV2VoQ1liTTVXYzQ2XzBQM0RLWjlDVl9HWmc5dWhhWFFzeUZ0cXNQVTUzMERrcEU3cDY0RzVXby1qZnc3LXl6LUJubDkzOFl0Ykp3bWcyWFcyYUJlTzNBWnlJVlkzSkFvTzJncE1DX2p0bFBf?oc=5",
-    "timestamp": "Tue, 24 Dec 2019 08:00:00 GMT",
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   }
 ]
