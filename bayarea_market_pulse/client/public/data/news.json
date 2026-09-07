@@ -45,17 +45,6 @@
   },
   {
     "id": 5,
-    "title": "More homes, lower prices, slower sales in SF - sfexaminer.com",
-    "summary": "More homes, lower prices, slower sales in SF - sfexaminer.com",
-    "source": "sfexaminer.com",
-    "trend": "down",
-    "category": "Market News",
-    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeU1vOXNZQ09kT1BFb0hHRkF3NnBtdXpBaW53S2o4YVVpTmptWkRMVzdHNWxfdXhmX0lpYnluNFpvak1BYnZNaFBBR2Q5M3I5NG00V2pTVVFURmRRMW1FSFpXbTcwb3lHTmFLRDRuRkJnR2x6N1dwdjRmZE1IR0pyN1lxekxoaWp5Q0s0LWFwbU82NVNKdXNsSHpib3hhRmxRbWFIUWdnR1BRdS1GWENackVDeFlUTUpiWldKSE9kV2Y0clFwcHNmQVFEVFBhSElfN1pPUkE2WXUyVVNPSGs1NjN5NGlLNEhXTkJyWkZ0RDI?oc=5",
-    "timestamp": "Mon, 06 Oct 2025 07:00:00 GMT",
-    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
-  },
-  {
-    "id": 6,
     "title": "Bay Area Housing Market Forecast for the Next 2 Years: 2026-2027 - Norada Real Estate Investments",
     "summary": "Bay Area Housing Market Forecast for the Next 2 Years: 2026-2027 - Norada Real Estate Investments",
     "source": "Norada Real Estate Investments",
@@ -66,7 +55,7 @@
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
-    "id": 7,
+    "id": 6,
     "title": "Home Listings Across Much of the Bay Area Go Stale - The Real Deal",
     "summary": "Home Listings Across Much of the Bay Area Go Stale - The Real Deal",
     "source": "The Real Deal",
@@ -77,7 +66,7 @@
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
-    "id": 8,
+    "id": 7,
     "title": "Top 10 U.S. counties where prospective buyers need to earn the most to afford a home\u201480% are in California - CNBC",
     "summary": "Top 10 U.S. counties where prospective buyers need to earn the most to afford a home\u201480% are in California - CNBC",
     "source": "CNBC",
@@ -88,10 +77,10 @@
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
-    "id": 9,
-    "title": "Bay Area home prices up 6% from last year as wealthy buyers dominate housing market - mercurynews.com",
-    "summary": "Bay Area home prices up 6% from last year as wealthy buyers dominate housing market - mercurynews.com",
-    "source": "mercurynews.com",
+    "id": 8,
+    "title": "Bay Area home prices up 6% from last year as wealthy buyers dominate housing market - The Mercury News",
+    "summary": "Bay Area home prices up 6% from last year as wealthy buyers dominate housing market - The Mercury News",
+    "source": "The Mercury News",
     "trend": "up",
     "category": "Market News",
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMEN2d0lhRElBNmlZOFRNZk5sUmQ0c0R1SXhXcWxqdk9XNlk3cDk2U0dvdlp2cDdteEZEYWpVMHdzZ0kzR2dMa0Vudk9sOFFyVzJuSE1rdlFxR0dMc3A4ZjJMZXdmZV9hcFZMLW0tQkdpNU5JdmhFS3NJdlV5ZXlOYVl5RGNrRkFmVEhDbU5ncHpiUFJFaUhYc05LcDJLTnRfcVZUdUY2alBucFQyUkFnVUpTZ2VoMVk4SHphTkVWY9IBxAFBVV95cUxOdTEzMU9SVlpELVBPbExfY3hVRmstR2RlUl8wdVBEaXBQNjBOQ05DOVZlREpYbzBxanQ4blN4X2dvWEM5SnNXTDdJX0tVS0I5R2ZtMC1yc3RSV3ZpRW9kSy12YWlPNUZhZUthNWhScjhoY0xQMW5sNzcxS1JJaHZsQkVZRnJtcWdseEFaenpzRzdadnBETmZvYWdwNUI4Nks1WlFUVnRLOEg3ckdXNXVlT2VGYkRST1l6bkFTNzRUNWdIeDds?oc=5",
@@ -99,7 +88,7 @@
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   },
   {
-    "id": 10,
+    "id": 9,
     "title": "\u2018Affordability ceiling\u2019: Bay Area real estate market sluggish - Marin Independent Journal",
     "summary": "\u2018Affordability ceiling\u2019: Bay Area real estate market sluggish - Marin Independent Journal",
     "source": "Marin Independent Journal",
@@ -107,6 +96,17 @@
     "category": "Market News",
     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUUp1Z0kwaVRWbXVSWFllaEI5U01IcUh0d1c0U2Y0QXdzbVM1WnJqVTFxVHBpMlNhbGUyNnFGbGRzR3pLeXRpWE85akZPWWtxV1J2c1ZOZjBBWU1HRng4S2FFRVZ1UkVEMUU4MzNNV2tLRFhnM3N2WE9pT2hlc09nenFHc9IBiAFBVV95cUxQMkRYcmFjbjI1MlRJbTVMSUJfaFRUV2VoQ1liTTVXYzQ2XzBQM0RLWjlDVl9HWmc5dWhhWFFzeUZ0cXNQVTUzMERrcEU3cDY0RzVXby1qZnc3LXl6LUJubDkzOFl0Ykp3bWcyWFcyYUJlTzNBWnlJVlkzSkFvTzJncE1DX2p0bFBf?oc=5",
     "timestamp": "Tue, 24 Dec 2019 08:00:00 GMT",
+    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
+    "id": 10,
+    "title": "Bay Area home prices go up again, but experts say a cooldown is coming - SiliconValley.com",
+    "summary": "Bay Area home prices go up again, but experts say a cooldown is coming - SiliconValley.com",
+    "source": "SiliconValley.com",
+    "trend": "up",
+    "category": "Market News",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRzlSYjdGb3RORHdpNHVDRjZLWURqUmJuRldVdlE4RHViemw5c1ZxQ3k2Zl9DMDg0aDA2NHFjbndqQTluOG5weHNEYlI0Wl9DTnRERUFsamJfVXVJeGVPSWhyWU83a3htSjFNNkkxMElqY1djd0M2N1RNUmsyemh2R2VDNnBYYTFPNnBCVjVEZ1BicUdPQmlNMHNHNHNuLThPd2RlSDVfTURxaDc30gGyAUFVX3lxTE9LQXVDMElFVlBNM3VBU09iSDc4QUwwblFIVjRWSWMtTUN6Vm1qMUljN1J3NEVuZG1VNTctUjJHSUhuTHo5QXUyNVV6TXpaelpmT1RLVjkxTHgwMTRKdmZKMEZlRFFjUmhVNUhLcWJpT05oOTNEYjY2UjRxb2syUGFkNmhzTVJ3ZF8yTkF3QlBNNnBlVllOSUQ5VTdkRVZGZFBKOHhtMVlXaVdaOGFMMUV0QWc?oc=5",
+    "timestamp": "Mon, 06 Jun 2022 07:00:00 GMT",
     "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop"
   }
 ]
